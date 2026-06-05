@@ -16,8 +16,8 @@
     "sha256": "f06761a640c3f1db75402f1899e276edcc949a8e7f1386b63e66ccbeafceac73"
   },
   "collection": {
-    "version": "1.1.1",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.1-Setup.exe",
-    "sha256": "73beb10f8836f281c686760d7f26426ae40c8d321122fc64a571d44d6822f990"
+    "version": "1.1.2",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.2-Setup.exe",
+    "sha256": "8fe6545d37f9ee9df9205b361b299286cd6ce01ea26b0c7dad511bae0fc4aa4a"
   }
 }
