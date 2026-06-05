@@ -1,6 +1,20 @@
 {
-  "meal-planner": {"version": "0.8.1", "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v0.8.1-Setup.exe"},
-  "budline":      {"version": "1.1.1", "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-Setup.exe"},
-  "italia":       {"version": "0.7.1", "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v0.7.1-Setup.exe"},
-  "collection":   {"version": "1.1.0", "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.0-Setup.exe"}
+  "meal-planner": {
+    "version": "0.8.1",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v0.8.1-Setup.exe"
+  },
+  "budline": {
+    "version": "1.2.0",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-Setup.exe",
+    "sha256": "d00b4dc120586bf21f0399fdf0a03769e43440e64cde7478b15edf38f1f3de8c"
+  },
+  "italia": {
+    "version": "0.7.1",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v0.7.1-Setup.exe"
+  },
+  "collection": {
+    "version": "1.1.0",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.0-Setup.exe"
+  }
 }
