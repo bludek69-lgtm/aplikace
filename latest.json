@@ -1,8 +1,8 @@
 {
   "meal-planner": {
-    "version": "0.8.2",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v0.8.2-Setup.exe",
-    "sha256": "4361ada23c1d48d8e3481d123b6522b81b170ff619f3f30e77604891ac6fbad3"
+    "version": "0.8.3",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v0.8.3-Setup.exe",
+    "sha256": "967e37982d0ba30e0041fcd28b8b60b6283b23abf09acfb8dc486880db9d8ce6"
   },
   "budline": {
     "version": "1.2.2",
