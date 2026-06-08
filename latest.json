@@ -11,9 +11,9 @@
     "sha256": "4e8b7fc668fef2b3602d6764e65845b248d4c04f412a489499d2ea7def16aee3"
   },
   "italia": {
-    "version": "0.7.4",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v0.7.4-Setup.exe",
-    "sha256": "f06761a640c3f1db75402f1899e276edcc949a8e7f1386b63e66ccbeafceac73"
+    "version": "0.7.5",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v0.7.5-Setup.exe",
+    "sha256": "207c4a74d8891c639858117271999c9f15eed42b574d980ef1ffbcaa04356d0d"
   },
   "collection": {
     "version": "1.1.4",
