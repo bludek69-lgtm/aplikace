@@ -1,6 +1,7 @@
 SHA-256 — aplikace (aktuální instalátory)
 Hodnoty odpovídají latest.json. Ověř po stažení:  Get-FileHash -Algorithm SHA256 <soubor>
 
+9d76d552c410fb11ee5c34f0515f94ba2d1b6187e8f775d87f2920b58548cfba  BudLinePanel-v1.2.10-Setup.exe
 d9d8bc547c1587e771a40fd9302d330d90360fc90ea35e9035ee275a65fde87d  BudLinePanel-v1.2.9-Setup.exe
 0636d3f52acade5d85a3fe448e8d4b11ec62ab300a72bed93f06e257ff14926f  BudLinePanel-v1.2.8-Setup.exe
 40aace4b2cc3acf637cc9ece76682343cf94f2b0c71d9023d4b02a964964822e  BudLinePanel-v1.2.7-Setup.exe
