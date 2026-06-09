@@ -1,7 +1,7 @@
 SHA-256 — aplikace (aktuální instalátory)
 Hodnoty odpovídají latest.json. Ověř po stažení:  Get-FileHash -Algorithm SHA256 <soubor>
 
-4e8b7fc668fef2b3602d6764e65845b248d4c04f412a489499d2ea7def16aee3  BudLinePanel-v1.2.5-Setup.exe
+1e719301760f19ec676f307aea0e480f209882ece6426bff9485cb419932f112  BudLinePanel-v1.2.5-Setup.exe
 af701c9b2be0851211b393e5c54df13ed414616ef4a41f43683eeab1319023b9  MealPlanner-v0.8.6-Setup.exe
 e9359fdaeeeb9c95d1843e3bb3ac145d3493de55f1a29724d7abdb920687cc9d  ItaliaTravel-v0.7.6-Setup.exe
 3fc1d2bd0ddad71cbb3e732b938981af39bea6c2b626d57a07edca15b29b3abc  Collection-v1.1.5-Setup.exe
@@ -10,3 +10,4 @@ e9359fdaeeeb9c95d1843e3bb3ac145d3493de55f1a29724d7abdb920687cc9d  ItaliaTravel-v
 3f1628c923a0d201bddf402a315f2c2ed9386be5efb3128e15c4ff55f6e2498d  MealPlanner-v0.8.5-Setup.exe
 207c4a74d8891c639858117271999c9f15eed42b574d980ef1ffbcaa04356d0d  ItaliaTravel-v0.7.5-Setup.exe
 ce66b4f280bb1b6f992b6ba9897884ca4c7ad563fecf4a7b95a0f7315eedd155  Collection-v1.1.4-Setup.exe
+4e8b7fc668fef2b3602d6764e65845b248d4c04f412a489499d2ea7def16aee3  BudLinePanel-v1.2.5-Setup.exe  (superseded: stage=final build, nahrazeno stage=beta rebuildem 2026-06-09)
