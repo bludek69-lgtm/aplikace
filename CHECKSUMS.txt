@@ -1,6 +1,7 @@
 SHA-256 — aplikace (aktuální instalátory)
 Hodnoty odpovídají latest.json. Ověř po stažení:  Get-FileHash -Algorithm SHA256 <soubor>
 
+aba9492aa63bdb7daef15a13a902636fb2fb457978b66e2c9a1ff3a3c11c70b2  BudLinePanel-v1.2.6-Setup.exe
 1e719301760f19ec676f307aea0e480f209882ece6426bff9485cb419932f112  BudLinePanel-v1.2.5-Setup.exe
 af701c9b2be0851211b393e5c54df13ed414616ef4a41f43683eeab1319023b9  MealPlanner-v0.8.6-Setup.exe
 e9359fdaeeeb9c95d1843e3bb3ac145d3493de55f1a29724d7abdb920687cc9d  ItaliaTravel-v0.7.6-Setup.exe
