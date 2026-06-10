@@ -18,3 +18,4 @@ e9359fdaeeeb9c95d1843e3bb3ac145d3493de55f1a29724d7abdb920687cc9d  ItaliaTravel-v
 207c4a74d8891c639858117271999c9f15eed42b574d980ef1ffbcaa04356d0d  ItaliaTravel-v0.7.5-Setup.exe
 ce66b4f280bb1b6f992b6ba9897884ca4c7ad563fecf4a7b95a0f7315eedd155  Collection-v1.1.4-Setup.exe
 4e8b7fc668fef2b3602d6764e65845b248d4c04f412a489499d2ea7def16aee3  BudLinePanel-v1.2.5-Setup.exe  (superseded: stage=final build, nahrazeno stage=beta rebuildem 2026-06-09)
+A9145580A19E2AB9A97053D3DB9870679B027E4D740607CBBDA9653C061E5008  TenisPark-v0.2.0-Setup.exe
