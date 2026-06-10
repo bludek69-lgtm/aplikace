@@ -10,14 +10,18 @@ d9d8bc547c1587e771a40fd9302d330d90360fc90ea35e9035ee275a65fde87d  BudLinePanel-v
 aba9492aa63bdb7daef15a13a902636fb2fb457978b66e2c9a1ff3a3c11c70b2  BudLinePanel-v1.2.6-Setup.exe
 1e719301760f19ec676f307aea0e480f209882ece6426bff9485cb419932f112  BudLinePanel-v1.2.5-Setup.exe
 af701c9b2be0851211b393e5c54df13ed414616ef4a41f43683eeab1319023b9  MealPlanner-v0.8.6-Setup.exe
-e9359fdaeeeb9c95d1843e3bb3ac145d3493de55f1a29724d7abdb920687cc9d  ItaliaTravel-v0.7.6-Setup.exe
+29d79160507dbca449cf8d2708e91a6f618c5cb0aa25836cb9dd213a5dc3f9da  ItaliaTravel-v1.0.0-Setup.exe
 3fc1d2bd0ddad71cbb3e732b938981af39bea6c2b626d57a07edca15b29b3abc  Collection-v1.1.5-Setup.exe
+5848b9edfef4285efbbb99b8c83b38e3af1b2b4b6e680ed50aef179869ac1a68  TenisPark-v0.2.1-Setup.exe
 
 # Historické (superseded, ponechány pro ověření starších stažení)
 3f1628c923a0d201bddf402a315f2c2ed9386be5efb3128e15c4ff55f6e2498d  MealPlanner-v0.8.5-Setup.exe
+bf5d53c2a08aa996b0a89128dc8347d6d8ff95159f3b32c598cb30ec9e759d2d  ItaliaTravel-v0.7.10-Setup.exe
+20547112c390c41481b9c4faed5d8b6a6adb6eea380d413709ca2128534cc5c8  ItaliaTravel-v0.7.9-Setup.exe
+15bf81f4de6f8eb4188ee7e35ab2450e58282ae371f235b55d429e808921266a  ItaliaTravel-v0.7.8-Setup.exe
+d42a5c08d499b413efc44c16bcdb3b29acf667fe7f9a8123e3104840bfa91a0f  ItaliaTravel-v0.7.7-Setup.exe
+e9359fdaeeeb9c95d1843e3bb3ac145d3493de55f1a29724d7abdb920687cc9d  ItaliaTravel-v0.7.6-Setup.exe
 207c4a74d8891c639858117271999c9f15eed42b574d980ef1ffbcaa04356d0d  ItaliaTravel-v0.7.5-Setup.exe
 ce66b4f280bb1b6f992b6ba9897884ca4c7ad563fecf4a7b95a0f7315eedd155  Collection-v1.1.4-Setup.exe
 4e8b7fc668fef2b3602d6764e65845b248d4c04f412a489499d2ea7def16aee3  BudLinePanel-v1.2.5-Setup.exe  (superseded: stage=final build, nahrazeno stage=beta rebuildem 2026-06-09)
 A9145580A19E2AB9A97053D3DB9870679B027E4D740607CBBDA9653C061E5008  TenisPark-v0.2.0-Setup.exe
-A83D99D4CAE5AA0EEAF723BA987072383CC1938BDD1E30687A05D1766E3DC2CD  TenisPark-v0.2.1-Setup.exe
-5848B9EDFEF4285EFBBB99B8C83B38E3AF1B2B4B6E680ED50AEF179869AC1A68  TenisPark-v0.2.1-Setup.exe
