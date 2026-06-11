@@ -2,7 +2,6 @@
 SHA-256 — aplikace (aktuální instalátory)
 Hodnoty odpovídají latest.json. Ověř po stažení:  Get-FileHash -Algorithm SHA256 <soubor>
 
-420dbce2366245e8f811c6c61bfc52aafd61ef22f3f20aac18ea7202133f8c5d  BudLinePanel-v1.2.12-Setup.exe
 9133e8d0351ef70405d43a4feec463b3ddb3829bf47cf8eb9bf917991e6dcc66  BudLinePanel-v1.2.11-Setup.exe
 9d76d552c410fb11ee5c34f0515f94ba2d1b6187e8f775d87f2920b58548cfba  BudLinePanel-v1.2.10-Setup.exe
 d9d8bc547c1587e771a40fd9302d330d90360fc90ea35e9035ee275a65fde87d  BudLinePanel-v1.2.9-Setup.exe
@@ -27,3 +26,4 @@ ce66b4f280bb1b6f992b6ba9897884ca4c7ad563fecf4a7b95a0f7315eedd155  Collection-v1.
 4e8b7fc668fef2b3602d6764e65845b248d4c04f412a489499d2ea7def16aee3  BudLinePanel-v1.2.5-Setup.exe  (superseded: stage=final build, nahrazeno stage=beta rebuildem 2026-06-09)
 A9145580A19E2AB9A97053D3DB9870679B027E4D740607CBBDA9653C061E5008  TenisPark-v0.2.0-Setup.exe
 29d79160507dbca449cf8d2708e91a6f618c5cb0aa25836cb9dd213a5dc3f9da  ItaliaTravel-v1.0.0-Setup.exe
+205892a4be8b3a1786b846f430268fe18b06e31d3781c235a6fc6ba3259118ce  BudLinePanel-v1.2.13-Setup.exe
