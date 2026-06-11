@@ -24,9 +24,9 @@
                        "sha256":  "f1693723fc52fd0b5e7784e398d10b8cab2182e96a5749c75a6590b4ece67d85"
                    },
     "tenispark":  {
-                      "version":  "0.2.1",
+                      "version":  "0.2.2",
                       "stage":  "beta",
-                      "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.1-Setup.exe",
-                      "sha256":  "5848B9EDFEF4285EFBBB99B8C83B38E3AF1B2B4B6E680ED50AEF179869AC1A68"
+                      "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.2-Setup.exe",
+                      "sha256":  "1744f68f802cebf3ed4811971c4615193ac507d5d389ced36508157859765fc6"
                   }
 }
