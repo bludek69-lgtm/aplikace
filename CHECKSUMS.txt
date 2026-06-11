@@ -11,7 +11,6 @@ aba9492aa63bdb7daef15a13a902636fb2fb457978b66e2c9a1ff3a3c11c70b2  BudLinePanel-v
 1e719301760f19ec676f307aea0e480f209882ece6426bff9485cb419932f112  BudLinePanel-v1.2.5-Setup.exe
 af701c9b2be0851211b393e5c54df13ed414616ef4a41f43683eeab1319023b9  MealPlanner-v0.8.6-Setup.exe
 59d191074b32f510498e675b7aac0712170e8d96ea7aa12990eb051720b50dc0  ItaliaTravel-v1.0.1-Setup.exe
-5848b9edfef4285efbbb99b8c83b38e3af1b2b4b6e680ed50aef179869ac1a68  TenisPark-v0.2.1-Setup.exe
 
 # Historické (superseded, ponechány pro ověření starších stažení)
 3f1628c923a0d201bddf402a315f2c2ed9386be5efb3128e15c4ff55f6e2498d  MealPlanner-v0.8.5-Setup.exe
@@ -27,3 +26,4 @@ A9145580A19E2AB9A97053D3DB9870679B027E4D740607CBBDA9653C061E5008  TenisPark-v0.2
 29d79160507dbca449cf8d2708e91a6f618c5cb0aa25836cb9dd213a5dc3f9da  ItaliaTravel-v1.0.0-Setup.exe
 205892a4be8b3a1786b846f430268fe18b06e31d3781c235a6fc6ba3259118ce  BudLinePanel-v1.2.13-Setup.exe
 f1693723fc52fd0b5e7784e398d10b8cab2182e96a5749c75a6590b4ece67d85  Collection-v1.1.6-Setup.exe
+1744f68f802cebf3ed4811971c4615193ac507d5d389ced36508157859765fc6  TenisPark-v0.2.2-Setup.exe
