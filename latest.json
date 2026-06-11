@@ -6,10 +6,10 @@
                          "sha256":  "797a4dfa3d3077226cf7d9f8ddbb43b3a6d364f4a469b692c1d740464461570a"
                      },
     "budline":  {
-                    "version":  "1.2.12",
+                    "version":  "1.2.13",
                     "stage":  "beta",
-                    "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.12-Setup.exe",
-                    "sha256":  "420dbce2366245e8f811c6c61bfc52aafd61ef22f3f20aac18ea7202133f8c5d"
+                    "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.13-Setup.exe",
+                    "sha256":  "205892a4be8b3a1786b846f430268fe18b06e31d3781c235a6fc6ba3259118ce"
                 },
     "italia":  {
                    "version":  "1.0.1",
