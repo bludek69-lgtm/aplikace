@@ -1,3 +1,4 @@
+797a4dfa3d3077226cf7d9f8ddbb43b3a6d364f4a469b692c1d740464461570a  MealPlanner-v0.9.0-Setup.exe
 SHA-256 — aplikace (aktuální instalátory)
 Hodnoty odpovídají latest.json. Ověř po stažení:  Get-FileHash -Algorithm SHA256 <soubor>
 
