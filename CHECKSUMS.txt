@@ -11,7 +11,7 @@ d9d8bc547c1587e771a40fd9302d330d90360fc90ea35e9035ee275a65fde87d  BudLinePanel-v
 aba9492aa63bdb7daef15a13a902636fb2fb457978b66e2c9a1ff3a3c11c70b2  BudLinePanel-v1.2.6-Setup.exe
 1e719301760f19ec676f307aea0e480f209882ece6426bff9485cb419932f112  BudLinePanel-v1.2.5-Setup.exe
 af701c9b2be0851211b393e5c54df13ed414616ef4a41f43683eeab1319023b9  MealPlanner-v0.8.6-Setup.exe
-29d79160507dbca449cf8d2708e91a6f618c5cb0aa25836cb9dd213a5dc3f9da  ItaliaTravel-v1.0.0-Setup.exe
+59d191074b32f510498e675b7aac0712170e8d96ea7aa12990eb051720b50dc0  ItaliaTravel-v1.0.1-Setup.exe
 3fc1d2bd0ddad71cbb3e732b938981af39bea6c2b626d57a07edca15b29b3abc  Collection-v1.1.5-Setup.exe
 5848b9edfef4285efbbb99b8c83b38e3af1b2b4b6e680ed50aef179869ac1a68  TenisPark-v0.2.1-Setup.exe
 
@@ -26,3 +26,4 @@ e9359fdaeeeb9c95d1843e3bb3ac145d3493de55f1a29724d7abdb920687cc9d  ItaliaTravel-v
 ce66b4f280bb1b6f992b6ba9897884ca4c7ad563fecf4a7b95a0f7315eedd155  Collection-v1.1.4-Setup.exe
 4e8b7fc668fef2b3602d6764e65845b248d4c04f412a489499d2ea7def16aee3  BudLinePanel-v1.2.5-Setup.exe  (superseded: stage=final build, nahrazeno stage=beta rebuildem 2026-06-09)
 A9145580A19E2AB9A97053D3DB9870679B027E4D740607CBBDA9653C061E5008  TenisPark-v0.2.0-Setup.exe
+29d79160507dbca449cf8d2708e91a6f618c5cb0aa25836cb9dd213a5dc3f9da  ItaliaTravel-v1.0.0-Setup.exe
