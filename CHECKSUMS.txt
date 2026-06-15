@@ -41,3 +41,4 @@ a0ae54196c2ff320bd0ad8b1f4748942384d8bdef8b89c63d0ea89648e5a043e  Collection-v1.
 eabc0d60a164d49e008c5f564eebc8103d78f178dc70c712667b3e42c7434b5b  BudLinePanel-v1.2.23-Setup.exe
 54568e942bf53e00e445ee6a6e77bc60456d65c080bf0d5b0b4d9f7f7fbb4179  Collection-v1.1.10-Setup.exe
 298fab2173d1bf5df1787ccad06f8663eb5d20e17bc0e53a1cd731c06dfd6f94  Collection-v1.1.11-Setup.exe
+12f45ef95c92dbe2b2da1a9cb3ac1191bf8f6a6156d85dd04b9e60904b2397d0  Collection-v1.1.12-Setup.exe
