@@ -18,10 +18,10 @@
                    "sha256":  "59d191074b32f510498e675b7aac0712170e8d96ea7aa12990eb051720b50dc0"
                },
     "collection":  {
-                       "version":  "1.1.13",
+                       "version":  "1.1.14",
                        "stage":  "beta",
-                       "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.13-Setup.exe",
-                       "sha256":  "0adfccd523710fae9f08ca3157442fff2d76a8caebe8c2292eea7a5fcc06a52b"
+                       "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.14-Setup.exe",
+                       "sha256":  "4ac7bb404968ce06268d6dfe8859e33129dde9ca3317d87c1f0ed47ce34374b3"
                    },
     "tenispark":  {
                       "version":  "0.2.2",
