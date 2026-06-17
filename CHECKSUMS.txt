@@ -49,3 +49,5 @@ f00f098bae337d4ea57f48574ceaa8486203b219f748e8b64cd71df7af2b5f35  BudLinePanel-v
 065e141c8b0df8db49ebcd29a8481710b39a6453acf51ffeb81bb1343e1fa49c  BudLinePanel-v1.2.25-mac.dmg
 56e118d39650cb65d28eeac51c002bfd70cd2b6bfe0967f59d4f01d1e388bf3b  BudLinePanel-v1.2.26-Setup.exe
 83efd5b5e1e1ada06d9e0d1c1b2a1484e84ab2236d9eb7273f2c273bc97f1295  BudLinePanel-v1.2.26-mac.dmg
+7bd8ed5b9cf1932dd439ca8143dce90268195961fb1eb3898a2ed6dcfd97f63e  BudLinePanel-v1.2.26-Setup.exe
+18259942bcd1bef860eb3f7ce3dd34adc8a44a5feaed1913748d0c5dc7706a51  BudLinePanel-v1.2.26-mac.dmg
