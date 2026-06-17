@@ -44,3 +44,4 @@ eabc0d60a164d49e008c5f564eebc8103d78f178dc70c712667b3e42c7434b5b  BudLinePanel-v
 12f45ef95c92dbe2b2da1a9cb3ac1191bf8f6a6156d85dd04b9e60904b2397d0  Collection-v1.1.12-Setup.exe
 0adfccd523710fae9f08ca3157442fff2d76a8caebe8c2292eea7a5fcc06a52b  Collection-v1.1.13-Setup.exe
 4ac7bb404968ce06268d6dfe8859e33129dde9ca3317d87c1f0ed47ce34374b3  Collection-v1.1.14-Setup.exe
+86989e0ee8348035e6ef999676534639f64b2c6cacc91b7c2ad637ba50a03edb  MealPlanner-v0.9.1-Setup.exe
