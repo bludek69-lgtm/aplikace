@@ -9,7 +9,9 @@
                     "version":  "1.2.27",
                     "stage":  "beta",
                     "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.27-Setup.exe",
-                    "sha256":  "a580bc3c18e09c150caa809d1b18559891cacf84dbef7249a8c04f5f4076c5cc"
+                    "sha256":  "a580bc3c18e09c150caa809d1b18559891cacf84dbef7249a8c04f5f4076c5cc",
+                    "url_mac":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.27-mac.dmg",
+                    "sha256_mac":  "641b0e4f608b221d0ec21f889f06bf496204c743807cf817a61a7c9876508fcb"
                 },
     "italia":  {
                    "version":  "1.0.1",
