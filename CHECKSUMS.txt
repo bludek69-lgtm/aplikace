@@ -54,3 +54,5 @@ f00f098bae337d4ea57f48574ceaa8486203b219f748e8b64cd71df7af2b5f35  BudLinePanel-v
 780ccdbd2bc535a0a8e27dff8645614190a6d5a99c05bc8753bb9237dd1f4298  MealPlanner-v0.9.2-Setup.exe
 a580bc3c18e09c150caa809d1b18559891cacf84dbef7249a8c04f5f4076c5cc  BudLinePanel-v1.2.27-Setup.exe
 641b0e4f608b221d0ec21f889f06bf496204c743807cf817a61a7c9876508fcb  BudLinePanel-v1.2.27-mac.dmg
+a1572bdad05f8b43af8b4ef6d5a18cb55b4d7a91f1b762aacac8e0bf1ccba9bd  BudLinePanel-v1.2.28-Setup.exe
+76d936a27e1aa56e824cef42f349e19a927ef1fca955650b8c964028a2ee8cf3  BudLinePanel-v1.2.28-mac.dmg
