@@ -26,10 +26,10 @@
                        "sha256":  "4cead00f44fb5a4cfc70800284e360e1128464bbd452e9b3618e59af0d3354af"
                    },
     "tenispark":  {
-                      "version":  "0.2.5",
+                      "version":  "0.2.6",
                       "stage":  "beta",
-                      "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.5-Setup.exe",
-                      "sha256":  "5cd9c5111dc511282979e02d8c70ff9911bea840c3e58ffca64e38c13ea11c59"
+                      "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.6-Setup.exe",
+                      "sha256":  "0333c549b648dd15e02f97a9fc5c33ebb5f97cdb43d08ef3f8a54edc01e80494"
                   },
     "finance-analytik":  {
                              "version":  "0.3.0",
