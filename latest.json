@@ -1,40 +1,34 @@
 {
-    "meal-planner":  {
-                         "version":  "0.9.5",
-                         "stage":  "beta",
-                         "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v0.9.5-Setup.exe",
-                         "sha256":  "8cccc8030dd453b07a333db9507b98531b083869cfbcf0016f2123d986f226af"
-                     },
-    "budline":  {
-                    "version":  "1.2.42",
-                    "stage":  "beta",
-                    "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.42-Setup.exe",
-                    "sha256":  "304b7a3db01cc3f65da8cafece429ef0d45d29fa16479809c593faaace7c2f2a",
-                    "url_mac":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel.dmg",
-                    "sha256_mac":  "638c46f995a6e40f61eae79f3f464217f077f5985e10b09ad7fe4440a325ab83"
-                },
-    "italia":  {
-                   "version":  "1.0.5",
-                   "stage":  "beta",
-                   "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.0.5-Setup.exe",
-                   "sha256":  "1689304e07f390e0c24e66198611600f15541ce84ec603a9a692239e4de61028"
-               },
-    "collection":  {
-                       "version":  "1.1.15",
-                       "stage":  "beta",
-                       "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.15-Setup.exe",
-                       "sha256":  "4cead00f44fb5a4cfc70800284e360e1128464bbd452e9b3618e59af0d3354af"
-                   },
-    "tenispark":  {
-                      "version":  "0.2.6",
-                      "stage":  "beta",
-                      "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.6-Setup.exe",
-                      "sha256":  "0333c549b648dd15e02f97a9fc5c33ebb5f97cdb43d08ef3f8a54edc01e80494"
-                  },
-    "finance-analytik":  {
-                             "version":  "0.3.1",
-                             "stage":  "beta",
-                             "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/FinanceAnalytik-v0.3.1-Setup.exe",
-                             "sha256":  "c99ef2f650544a7c2ba78a630e5cf57d5c58ac5be08210a32181193a864b5d8e"
-                         }
+  "meal-planner": {
+    "version": "0.9.5",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v0.9.5-Setup.exe",
+    "sha256": "8cccc8030dd453b07a333db9507b98531b083869cfbcf0016f2123d986f226af"
+  },
+  "budline": {
+    "version": "1.2.42",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.42-Setup.exe",
+    "sha256": "304b7a3db01cc3f65da8cafece429ef0d45d29fa16479809c593faaace7c2f2a",
+    "url_mac": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel.dmg",
+    "sha256_mac": "638c46f995a6e40f61eae79f3f464217f077f5985e10b09ad7fe4440a325ab83"
+  },
+  "italia": {
+    "version": "1.0.5",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.0.5-Setup.exe",
+    "sha256": "1689304e07f390e0c24e66198611600f15541ce84ec603a9a692239e4de61028"
+  },
+  "collection": {
+    "version": "1.1.15",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.15-Setup.exe",
+    "sha256": "4cead00f44fb5a4cfc70800284e360e1128464bbd452e9b3618e59af0d3354af"
+  },
+  "tenispark": {
+    "version": "0.2.6",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.6-Setup.exe",
+    "sha256": "0333c549b648dd15e02f97a9fc5c33ebb5f97cdb43d08ef3f8a54edc01e80494"
+  }
 }
