@@ -32,9 +32,9 @@
                       "sha256":  "0333c549b648dd15e02f97a9fc5c33ebb5f97cdb43d08ef3f8a54edc01e80494"
                   },
     "finance-analytik":  {
-                             "version":  "0.3.0",
+                             "version":  "0.3.1",
                              "stage":  "beta",
-                             "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/FinanceAnalytik-v0.3.0-Setup.exe",
-                             "sha256":  "8229304f6d91ef4a0ca8bc80cc9ae29964031ed622304d57319e05a06761cba3"
+                             "url":  "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/FinanceAnalytik-v0.3.1-Setup.exe",
+                             "sha256":  "c99ef2f650544a7c2ba78a630e5cf57d5c58ac5be08210a32181193a864b5d8e"
                          }
 }
