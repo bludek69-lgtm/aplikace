@@ -1,37 +1,37 @@
 {
-  "meal-planner": {
-    "version": "0.9.7",
-    "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v0.9.7-Setup.exe",
-    "sha256": "c6f8bd231ce54878b2c5318bc86cb9c825b175b7aff6d8d42cc1b09bcd0f653f"
-  },
-  "budline": {
-    "version": "1.2.51",
-    "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.51-Setup.exe",
-    "sha256": "4518d9048338db27882903e9bc68e61b180a8a3972aea159d1f0e80229141c55",
-    "url_mac": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel.dmg",
-    "sha256_mac": "c52287bb47427d6c2316132402167e624faa487b2a113489203f413011a5076f"
-  },
-  "italia": {
-    "version": "1.0.9",
-    "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.0.9-Setup.exe",
-    "sha256": "644db364ee5fd7944952b2606c5a2b0c69ddc4d105785cad4695491ddb9baaf7",
-    "size": 17848301,
-    "date": "2026-07-11",
-    "notes": "1.0.9 beta: assurance PHASE 1-3 (invarianty, reconciliation, verified backup + safe restore, Health Center), midnight end_day_offset, oprava NewTrip toastu. VM update-QA PASS."
-  },
-  "collection": {
-    "version": "1.1.22",
-    "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.22-Setup.exe",
-    "sha256": "802a9c0bc8287e68113a5e161821e0ed4db41c4476783d4aefafcc617b9b796a"
-  },
-  "tenispark": {
-    "version": "0.2.8",
-    "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.8-Setup.exe",
-    "sha256": "2c61ba1d97f629956826f235382a17f52de92a6ad11c2fe0fa73e74ff00163b1"
-  }
+ "meal-planner": {
+  "version": "0.9.7",
+  "stage": "beta",
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v0.9.7-Setup.exe",
+  "sha256": "c6f8bd231ce54878b2c5318bc86cb9c825b175b7aff6d8d42cc1b09bcd0f653f"
+ },
+ "budline": {
+  "version": "1.2.52",
+  "stage": "beta",
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.52-Setup.exe",
+  "sha256": "65c0bca0cf5a8d090a9f8d7bb7ae8dce0992d5415028ab183fee6db1f159b005",
+  "url_mac": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel.dmg",
+  "sha256_mac": "1cc85e4727114db04acd6cfd077352dd3cae60485f307646f869f4c9aa342a6c"
+ },
+ "italia": {
+  "version": "1.0.9",
+  "stage": "beta",
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.0.9-Setup.exe",
+  "sha256": "644db364ee5fd7944952b2606c5a2b0c69ddc4d105785cad4695491ddb9baaf7",
+  "size": 17848301,
+  "date": "2026-07-11",
+  "notes": "1.0.9 beta: assurance PHASE 1-3 (invarianty, reconciliation, verified backup + safe restore, Health Center), midnight end_day_offset, oprava NewTrip toastu. VM update-QA PASS."
+ },
+ "collection": {
+  "version": "1.1.22",
+  "stage": "beta",
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.22-Setup.exe",
+  "sha256": "802a9c0bc8287e68113a5e161821e0ed4db41c4476783d4aefafcc617b9b796a"
+ },
+ "tenispark": {
+  "version": "0.2.8",
+  "stage": "beta",
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.8-Setup.exe",
+  "sha256": "2c61ba1d97f629956826f235382a17f52de92a6ad11c2fe0fa73e74ff00163b1"
+ }
 }
