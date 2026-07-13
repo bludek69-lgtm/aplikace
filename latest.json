@@ -14,13 +14,13 @@
   "sha256_mac": "586608aac789d1fed512fa51197b9c300d5be8acffe9923de183f3d40faba05d"
  },
  "italia": {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.2.0-Setup.exe",
-  "sha256": "7172a787055274fe6d820373c9d104219e88300d5bead8ea074d1d42eb29ff1c",
-  "size": 17904870,
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.3.0-Setup.exe",
+  "sha256": "fc4c2ef770ecd4a992f7fc95d451e8f566a18fe204338e17cadf2d0adc57509c",
+  "size": 17908208,
   "date": "2026-07-13",
-  "notes": "1.2.0 beta ALONG-ROUTE: zastavky podel trasy (palivo/WC/servis/trajekt) — manualni CRUD, deduplikace, kompatibilita vozidla (vyska/delka/hmotnost), aktualnost, detour quality, offline. Sitove vyhledavani (OSM) zatim nezapojene. Merge PR #4, main gate + 100 E2E PASS. WebLauncher runtime smoke PASS. VM update-QA: owner waiver."
+  "notes": "1.3.0 beta ALONG-ROUTE NETWORK: bezpecna sitova vrstva (OpenStreetMap/openrouteservice) — rate limit, circuit breaker, cache/TTL, offline fallback, povinna atribuce. Bez API klice/atribuce = OFF (zadna vymyslena data, zadna fake legalita). Realny fetcher = deployment config. Merge PR #5, main gate + core 544/web 152. WebLauncher runtime smoke PASS. VM update-QA: owner waiver."
  },
  "collection": {
   "version": "1.1.22",
