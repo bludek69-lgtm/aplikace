@@ -14,13 +14,13 @@
   "sha256_mac": "84acad52739a6102ee9bdbacb15b978eb237e389a8d5529f36959556d4fa399c"
  },
  "italia": {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.1.0-Setup.exe",
-  "sha256": "7be67b1dc80edc1d6e47fa74f22bf5edbab6337054427da947b9000f1158da23",
-  "size": 17889987,
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.2.0-Setup.exe",
+  "sha256": "7172a787055274fe6d820373c9d104219e88300d5bead8ea074d1d42eb29ff1c",
+  "size": 17904870,
   "date": "2026-07-13",
-  "notes": "1.1.0 beta ROADTRIP-FIRST: Roadtrip Command Center (car_stay/car_sleep/mixed), sjednocenY rezervacni hub, Map+Itinerary split view, offline balicek. Read-only agregace, VehicleProfileAdapter, check-in/parking/backup/freshness. Merge PR #3, main gate + 76 E2E PASS. WebLauncher runtime smoke PASS. VM update-QA: owner waiver."
+  "notes": "1.2.0 beta ALONG-ROUTE: zastavky podel trasy (palivo/WC/servis/trajekt) — manualni CRUD, deduplikace, kompatibilita vozidla (vyska/delka/hmotnost), aktualnost, detour quality, offline. Sitove vyhledavani (OSM) zatim nezapojene. Merge PR #4, main gate + 100 E2E PASS. WebLauncher runtime smoke PASS. VM update-QA: owner waiver."
  },
  "collection": {
   "version": "1.1.22",
