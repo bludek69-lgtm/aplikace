@@ -14,13 +14,13 @@
   "sha256_mac": "09796abf3d683fe934c64794d10ecf7194423afe644c7211c2cb38a134ddb293"
  },
  "italia": {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.4.0-Setup.exe",
-  "sha256": "afa1b0612ba45d39aa1ef6c7e7a50bfc69934d27b9e29ca7e4818ac7944e2d24",
-  "size": 17913132,
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.4.1-Setup.exe",
+  "sha256": "e391ac5999171dd98759be0664197fd5d913cc49f9dc9eae72f34e0a8860acf1",
+  "size": 17923552,
   "date": "2026-07-13",
-  "notes": "1.4.0 beta ALONG-ROUTE ONLINE: online vyhledavani zastavek podel trasy pres OpenStreetMap/Overpass, BEZ API klice (predchozi openrouteservice byl z prohlizece blokovan CORS). Keyless, offline-first (rate limit/circuit/cache), povinna atribuce ODbL, zadna vymyslena data. Cesta bez souradnic = jasna hlaska. Merge PR #6, main gate PASS, core 544/web 162, download-back SHA verified. BETA/NOT_FINAL."
+  "notes": "1.4.1 beta ALONG-ROUTE ROBUSTNESS: online hledani zastavek zpevneno — vice Overpass mirroru (4) + 2-pruchodovy retry (transientni 504), a keyless geokodovani (Nominatim) jako fallback: funguje i na cestach BEZ souradnic (odvodi oblast z nazvu mest/cesty, hlaska 'v okoli: <misto>'). Bez klice, ODbL. PR #7 merged, core 544/web 171, download-back SHA verified. BETA/NOT_FINAL."
  },
  "collection": {
   "version": "1.1.22",
