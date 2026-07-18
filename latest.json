@@ -23,10 +23,10 @@
   "notes": "1.4.1 beta ALONG-ROUTE ROBUSTNESS: online hledani zastavek zpevneno — vice Overpass mirroru (4) + 2-pruchodovy retry (transientni 504), a keyless geokodovani (Nominatim) jako fallback: funguje i na cestach BEZ souradnic (odvodi oblast z nazvu mest/cesty, hlaska 'v okoli: <misto>'). Bez klice, ODbL. PR #7 merged, core 544/web 171, download-back SHA verified. BETA/NOT_FINAL."
  },
  "collection": {
-  "version": "1.1.23",
+  "version": "1.1.24",
   "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.23-Setup.exe",
-  "sha256": "98cb5e5500332afaa1562cea1cc7ae9ecd17de012544e572d626cd827d7766aa"
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.24-Setup.exe",
+  "sha256": "a567abe4994c2e47a896cae54d826ff549984ecb21990b56e715c87ada7eb844"
  },
  "tenispark": {
   "version": "0.2.8",
