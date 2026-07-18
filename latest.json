@@ -14,13 +14,13 @@
   "sha256_mac": "7f5b7fec585a9632c05aea4f5fe22c91fffa99d2fd2cb82a1ba894cb989921a6"
  },
  "italia": {
-  "version": "1.4.1",
+  "version": "1.5.0",
   "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.4.1-Setup.exe",
-  "sha256": "e391ac5999171dd98759be0664197fd5d913cc49f9dc9eae72f34e0a8860acf1",
-  "size": 17923552,
-  "date": "2026-07-13",
-  "notes": "1.4.1 beta ALONG-ROUTE ROBUSTNESS: online hledani zastavek zpevneno — vice Overpass mirroru (4) + 2-pruchodovy retry (transientni 504), a keyless geokodovani (Nominatim) jako fallback: funguje i na cestach BEZ souradnic (odvodi oblast z nazvu mest/cesty, hlaska 'v okoli: <misto>'). Bez klice, ODbL. PR #7 merged, core 544/web 171, download-back SHA verified. BETA/NOT_FINAL."
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.5.0-Setup.exe",
+  "sha256": "52c58f70279cd21a711a28e72dfc982c3e2a9eedfdb3db41e277c352cafc6112",
+  "size": 17948004,
+  "date": "2026-07-18",
+  "notes": "1.5.0 beta MAPOVA TRASA: planovac trasy na mape (Leaflet editor + ulozeni do Trip planned_route, prezije reload; keyless ManualGeometry), route-aware zastavky (nejblizsi usek/pozice/zajizdka + piny + list<->map), vyber ubytovani z mapy (keyless Overpass, pridat na noc, ozivi FK), externi import GPX/KML/GeoJSON + structured Maps URL (short/share odmitnuto), 8 Health signalu. Bez klice, bez scrapingu/fake ceny. PR #8 merged, core 588/web 179/e2e 25/25, download-back SHA verified. VM QA owner-waiver (VM odstranena). BETA/NOT_FINAL."
  },
  "collection": {
   "version": "1.1.24",
