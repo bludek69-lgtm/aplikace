@@ -14,13 +14,13 @@
   "sha256_mac": "d92e7f2cf5f5b51ab30b62ac0d7cc00344226c7c6acda1b17acab5c0a741cc8c"
  },
  "italia": {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.5.0-Setup.exe",
-  "sha256": "52c58f70279cd21a711a28e72dfc982c3e2a9eedfdb3db41e277c352cafc6112",
-  "size": 17948004,
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.5.1-Setup.exe",
+  "sha256": "a5698719c5b20af73ff636de4a6606f454fb30712a5fa098bfbb2ed7411d8333",
+  "size": 17949175,
   "date": "2026-07-18",
-  "notes": "1.5.0 beta MAPOVA TRASA: planovac trasy na mape (Leaflet editor + ulozeni do Trip planned_route, prezije reload; keyless ManualGeometry), route-aware zastavky (nejblizsi usek/pozice/zajizdka + piny + list<->map), vyber ubytovani z mapy (keyless Overpass, pridat na noc, ozivi FK), externi import GPX/KML/GeoJSON + structured Maps URL (short/share odmitnuto), 8 Health signalu. Bez klice, bez scrapingu/fake ceny. PR #8 merged, core 588/web 179/e2e 25/25, download-back SHA verified. VM QA owner-waiver (VM odstranena). BETA/NOT_FINAL."
+  "notes": "1.5.1 beta: doplnena observabilita mapove vrstvy (PII-safe eventy pro externi import a vypocet umisteni zastavek). Funkce shodne s 1.5.0 (mapova trasa/zastavky/ubytovani/import). PR #10 merged, web 179, download-back SHA verified. VM QA owner-waiver (VM odstranena). BETA/NOT_FINAL."
  },
  "collection": {
   "version": "1.1.24",
