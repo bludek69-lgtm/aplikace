@@ -23,10 +23,10 @@
   "notes": "1.5.1 beta: doplnena observabilita mapove vrstvy (PII-safe eventy pro externi import a vypocet umisteni zastavek). Funkce shodne s 1.5.0 (mapova trasa/zastavky/ubytovani/import). PR #10 merged, web 179, download-back SHA verified. VM QA owner-waiver (VM odstranena). BETA/NOT_FINAL."
  },
  "collection": {
-  "version": "1.1.25",
+  "version": "1.1.26",
   "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.25-Setup.exe",
-  "sha256": "501de7175978f5217d58c14e81e741365ca94832cbc3e59da4230b6391777fdf"
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.26-Setup.exe",
+  "sha256": "b10334a49ef6c941b28901080ac737aab993ae289a744a7aeb391db5fd643749"
  },
  "tenispark": {
   "version": "0.2.8",
