@@ -14,13 +14,13 @@
   "sha256_mac": "726414103ab15beb768144ed4e4f949e56811b1bed592b675726d530e8eae911"
  },
  "italia": {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.5.1-Setup.exe",
-  "sha256": "a5698719c5b20af73ff636de4a6606f454fb30712a5fa098bfbb2ed7411d8333",
-  "size": 17949175,
-  "date": "2026-07-18",
-  "notes": "1.5.1 beta: doplnena observabilita mapove vrstvy (PII-safe eventy pro externi import a vypocet umisteni zastavek). Funkce shodne s 1.5.0 (mapova trasa/zastavky/ubytovani/import). PR #10 merged, web 179, download-back SHA verified. VM QA owner-waiver (VM odstranena). BETA/NOT_FINAL."
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.5.2-Setup.exe",
+  "sha256": "5cfdcd8b098e298cf6f95868205863530db1679b7936de17fc91df2bfbf5b9f8",
+  "size": 17962839,
+  "date": "2026-07-29",
+  "notes": "1.5.2 beta: obnovena browserova regresni kontrola (hotelovy i camper rezim), recency ochrana importu a obnovy itineraru, limity importu GPX/KML/GeoJSON, vzdalenost hotelovych i camper noclehu od trasy, CSP hardening pro web i Tauri vcetne opravy blokovaneho Tauri IPC. Gate: core 621, web 191, 14/14 e2e, desktop smoke + download-back SHA verified. BETA/NOT_FINAL."
  },
  "collection": {
   "version": "1.1.30",
