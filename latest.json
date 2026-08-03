@@ -14,13 +14,13 @@
     "sha256_mac": "71c50ddebccc99c99a34c34216f3bf7979926bc58ff22c8fbb922ef8fdd6160a"
   },
   "italia": {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.6.0-Setup.exe",
-    "sha256": "596c3c40acf80c503a5721e25dbd0ec37f9178a4323a29b6680febfe8a7246bd",
-    "size": 18100482,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.6.1-Setup.exe",
+    "sha256": "5f63fd7ded48b15eff5adad3c7cc076244c2080a7adec795970ba49d6ca9d1c4",
+    "size": 18102394,
     "date": "2026-08-03",
-    "notes": "1.6.0 beta: zaloha nese fotky ubytovani i stav checklistu (format_version 3, checksum kryje payload, manifest i verzi), ostry restore jde spustit z aplikace za governance flagem a potvrzovaci frazi, offline balicek vklada nahledy fotek v limitech, varovani pred odchodem s nedokoncenym zapisem. POZOR: kompatibilita zalohy je FORWARD-ONLY - starsi build zalohu v3 neobnovi. Gate: core 839, web 326, 24/24 e2e (534 assertions, 0 FAIL, 0 NOT_TESTED), install-test OKNO PASS, download-back SHA verified. BETA/NOT_FINAL."
+    "notes": "1.6.1 beta: instalator uz NENI sifrovany - rucni instalace se nepta na heslo a ticha aktualizace ho nepotrebuje. Obe cesty aktualizace berou heslo jako volitelne, takze se doinstaluje i klient z verze, kde bylo povinne (overeno: instalace s nadbytecnym /PASSWORD probehla /SILENT, exit 0). Obsah shodny s 1.6.0: zaloha nese fotky i checklist (format_version 3), ostry restore z aplikace, nahledy fotek v offline balicku. POZOR: kompatibilita zalohy je FORWARD-ONLY - starsi build zalohu v3 neobnovi. BETA/NOT_FINAL."
   },
   "collection": {
     "version": "1.1.31",
