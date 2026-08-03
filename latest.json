@@ -1,40 +1,40 @@
 {
- "meal-planner": {
-  "version": "0.9.13",
-  "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v0.9.13-Setup.exe",
-  "sha256": "f81b35a7c18f2401789ff8af733e297c56a7ac6a2b442140f188150ec4cec751"
- },
- "budline": {
-  "version": "1.2.81",
-  "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.81-Setup.exe",
-  "sha256": "715b5954cc6ccb4bad5da828904f7e81bfd6ead5298c2f8a8d5828fc80c9d9ab",
-  "url_mac": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel.dmg",
-  "sha256_mac": "50b03c7191880dbe474cc9e99f4b85456d1432f4442ccf7982f053882a5ad92e"
- },
- "italia": {
-  "version": "1.5.2",
-  "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.5.2-Setup.exe",
-  "sha256": "5cfdcd8b098e298cf6f95868205863530db1679b7936de17fc91df2bfbf5b9f8",
-  "size": 17962839,
-  "date": "2026-07-29",
-  "notes": "1.5.2 beta: obnovena browserova regresni kontrola (hotelovy i camper rezim), recency ochrana importu a obnovy itineraru, limity importu GPX/KML/GeoJSON, vzdalenost hotelovych i camper noclehu od trasy, CSP hardening pro web i Tauri vcetne opravy blokovaneho Tauri IPC. Gate: core 621, web 191, 14/14 e2e, desktop smoke + download-back SHA verified. BETA/NOT_FINAL."
- },
- "collection": {
-  "version": "1.1.30",
-  "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.30-Setup.exe",
-  "sha256": "56f8a343cd6004efe87fa6ddf2be3d2c986250af3a1ddc89d4146810c930d3b1",
-  "size": 35927882,
-  "date": "2026-07-28",
-  "notes": "1.1.30 beta: kalibrace pravosti — ingest labeled ground-truth dat (pravé/padělky + split) do referenční knihovny + pravdivý stav kalibrace. Fail-closed: ground truth vyžaduje nezávislý expertní podklad. Kalibrace se jen měří (NOT_CALIBRATED_FOR_AUTHENTICITY). Published SHA verified. BETA/NOT_FINAL."
- },
- "tenispark": {
-  "version": "0.2.8",
-  "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.8-Setup.exe",
-  "sha256": "2c61ba1d97f629956826f235382a17f52de92a6ad11c2fe0fa73e74ff00163b1"
- }
+  "meal-planner": {
+    "version": "0.9.13",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v0.9.13-Setup.exe",
+    "sha256": "f81b35a7c18f2401789ff8af733e297c56a7ac6a2b442140f188150ec4cec751"
+  },
+  "budline": {
+    "version": "1.2.81",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.81-Setup.exe",
+    "sha256": "715b5954cc6ccb4bad5da828904f7e81bfd6ead5298c2f8a8d5828fc80c9d9ab",
+    "url_mac": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel.dmg",
+    "sha256_mac": "50b03c7191880dbe474cc9e99f4b85456d1432f4442ccf7982f053882a5ad92e"
+  },
+  "italia": {
+    "version": "1.5.2",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.5.2-Setup.exe",
+    "sha256": "5cfdcd8b098e298cf6f95868205863530db1679b7936de17fc91df2bfbf5b9f8",
+    "size": 17962839,
+    "date": "2026-07-29",
+    "notes": "1.5.2 beta: obnovena browserova regresni kontrola (hotelovy i camper rezim), recency ochrana importu a obnovy itineraru, limity importu GPX/KML/GeoJSON, vzdalenost hotelovych i camper noclehu od trasy, CSP hardening pro web i Tauri vcetne opravy blokovaneho Tauri IPC. Gate: core 621, web 191, 14/14 e2e, desktop smoke + download-back SHA verified. BETA/NOT_FINAL."
+  },
+  "collection": {
+    "version": "1.1.31",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.31-Setup.exe",
+    "sha256": "1d8658977b8b8bc670b4c6ee6664b9a89b958aa100f00ad0054b9fa1113180a2",
+    "size": 35948624,
+    "date": "2026-08-03",
+    "notes": "1.1.31 beta: opravy po auditu. Plne zalohy jsou opet obnovitelne i s referencni knihovnou/markanty/kalibraci vcetne dlouhych Windows cest. Vyvojovy server neservíruje backend/.env ani zdroj; lokalni API odmita cizi Host/Origin. Souhrn hodnoty uz tise nescita ruzne meny — bez kurzu se hodnota nezobrazi. Opraven kontrast hodnot v dlazdicich. Upgrade QA 1.1.30->1.1.31 PASS (data zachovana, DB byte-identicka). Published SHA verified. BETA/NOT_FINAL."
+  },
+  "tenispark": {
+    "version": "0.2.8",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.8-Setup.exe",
+    "sha256": "2c61ba1d97f629956826f235382a17f52de92a6ad11c2fe0fa73e74ff00163b1"
+  }
 }
