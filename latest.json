@@ -14,13 +14,13 @@
     "sha256_mac": "71c50ddebccc99c99a34c34216f3bf7979926bc58ff22c8fbb922ef8fdd6160a"
   },
   "italia": {
-    "version": "1.5.2",
+    "version": "1.6.0",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.5.2-Setup.exe",
-    "sha256": "5cfdcd8b098e298cf6f95868205863530db1679b7936de17fc91df2bfbf5b9f8",
-    "size": 17962839,
-    "date": "2026-07-29",
-    "notes": "1.5.2 beta: obnovena browserova regresni kontrola (hotelovy i camper rezim), recency ochrana importu a obnovy itineraru, limity importu GPX/KML/GeoJSON, vzdalenost hotelovych i camper noclehu od trasy, CSP hardening pro web i Tauri vcetne opravy blokovaneho Tauri IPC. Gate: core 621, web 191, 14/14 e2e, desktop smoke + download-back SHA verified. BETA/NOT_FINAL."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.6.0-Setup.exe",
+    "sha256": "596c3c40acf80c503a5721e25dbd0ec37f9178a4323a29b6680febfe8a7246bd",
+    "size": 18100482,
+    "date": "2026-08-03",
+    "notes": "1.6.0 beta: zaloha nese fotky ubytovani i stav checklistu (format_version 3, checksum kryje payload, manifest i verzi), ostry restore jde spustit z aplikace za governance flagem a potvrzovaci frazi, offline balicek vklada nahledy fotek v limitech, varovani pred odchodem s nedokoncenym zapisem. POZOR: kompatibilita zalohy je FORWARD-ONLY - starsi build zalohu v3 neobnovi. Gate: core 839, web 326, 24/24 e2e (534 assertions, 0 FAIL, 0 NOT_TESTED), install-test OKNO PASS, download-back SHA verified. BETA/NOT_FINAL."
   },
   "collection": {
     "version": "1.1.31",
