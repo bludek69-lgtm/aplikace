@@ -14,13 +14,13 @@
     "sha256_mac": "71c50ddebccc99c99a34c34216f3bf7979926bc58ff22c8fbb922ef8fdd6160a"
   },
   "italia": {
-    "version": "1.6.1",
+    "version": "1.6.2",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.6.1-Setup.exe",
-    "sha256": "5f63fd7ded48b15eff5adad3c7cc076244c2080a7adec795970ba49d6ca9d1c4",
-    "size": 18102394,
-    "date": "2026-08-03",
-    "notes": "1.6.1 beta: instalator uz NENI sifrovany - rucni instalace se nepta na heslo a ticha aktualizace ho nepotrebuje. Obe cesty aktualizace berou heslo jako volitelne, takze se doinstaluje i klient z verze, kde bylo povinne (overeno: instalace s nadbytecnym /PASSWORD probehla /SILENT, exit 0). Obsah shodny s 1.6.0: zaloha nese fotky i checklist (format_version 3), ostry restore z aplikace, nahledy fotek v offline balicku. POZOR: kompatibilita zalohy je FORWARD-ONLY - starsi build zalohu v3 neobnovi. BETA/NOT_FINAL."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.6.2-Setup.exe",
+    "sha256": "662d84f937f86be1187d93784d2c32c2aed6dbaeb606064325464c2ed32053a6",
+    "size": 18103327,
+    "date": "2026-08-04",
+    "notes": "1.6.2 beta: OPRAVA ZTRATY DAT - okno aplikace bezelo v privatnim rezimu pywebview, takze cesty, checklisty ani fotky neprezily zavreni a po startu se naseedovala ukazkova data. Profil se nove uklada natrvalo do LOCALAPPDATA, mimo instalacni adresar - odinstalace ani upgrade o data nepripravi (overeno Upgrade QA, 5/5 verdiktu PASS). Data z drivejsich verzi zpetne obnovit nelze. Instalator neni sifrovany. BETA/NOT_FINAL."
   },
   "collection": {
     "version": "1.1.31",
