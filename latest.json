@@ -14,13 +14,13 @@
     "sha256_mac": "71c50ddebccc99c99a34c34216f3bf7979926bc58ff22c8fbb922ef8fdd6160a"
   },
   "italia": {
-    "version": "1.6.2",
+    "version": "1.6.3",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.6.2-Setup.exe",
-    "sha256": "662d84f937f86be1187d93784d2c32c2aed6dbaeb606064325464c2ed32053a6",
-    "size": 18103327,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.6.3-Setup.exe",
+    "sha256": "bd33d84342b9f6bf708444fe6dfdd94781c673134e96fbc423ac15bc299b642d",
+    "size": 18105374,
     "date": "2026-08-04",
-    "notes": "1.6.2 beta: OPRAVA ZTRATY DAT - okno aplikace bezelo v privatnim rezimu pywebview, takze cesty, checklisty ani fotky neprezily zavreni a po startu se naseedovala ukazkova data. Profil se nove uklada natrvalo do LOCALAPPDATA, mimo instalacni adresar - odinstalace ani upgrade o data nepripravi (overeno Upgrade QA, 5/5 verdiktu PASS). Data z drivejsich verzi zpetne obnovit nelze. Instalator neni sifrovany. BETA/NOT_FINAL."
+    "notes": "1.6.3 beta: OPRAVA TICHE AKTUALIZACE - instalacni skript se zabijel sam (bezel jako potomek aplikace a volal taskkill /T na jeji jmeno). Nove zabiji konkretni PID bez /T. POZOR: oprava je v klientovi, ktery aktualizaci provadi - kdo ma 1.6.2 a starsi, musi 1.6.3 nainstalovat jednou rucne, teprve pak budou tiche aktualizace fungovat. Obsahuje i 1.6.2 (oprava ztraty dat - profil se uklada natrvalo). BETA/NOT_FINAL."
   },
   "collection": {
     "version": "1.1.31",
