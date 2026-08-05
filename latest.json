@@ -14,13 +14,13 @@
     "sha256_mac": "71c50ddebccc99c99a34c34216f3bf7979926bc58ff22c8fbb922ef8fdd6160a"
   },
   "italia": {
-    "version": "1.6.3",
+    "version": "1.6.4",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.6.3-Setup.exe",
-    "sha256": "bd33d84342b9f6bf708444fe6dfdd94781c673134e96fbc423ac15bc299b642d",
-    "size": 18105374,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.6.4-Setup.exe",
+    "sha256": "b20881e527fae3ab00298b7827b9a6d62b12e4422df27a9eb737f9b822c60817",
+    "size": 18104320,
     "date": "2026-08-04",
-    "notes": "1.6.3 beta: OPRAVA TICHE AKTUALIZACE - instalacni skript se zabijel sam (bezel jako potomek aplikace a volal taskkill /T na jeji jmeno). Nove zabiji konkretni PID bez /T. POZOR: oprava je v klientovi, ktery aktualizaci provadi - kdo ma 1.6.2 a starsi, musi 1.6.3 nainstalovat jednou rucne, teprve pak budou tiche aktualizace fungovat. Obsahuje i 1.6.2 (oprava ztraty dat - profil se uklada natrvalo). BETA/NOT_FINAL."
+    "notes": "1.6.4 beta: OPRAVA OZNAMENI O NOVE VERZI - aplikace nikdy nerekla, ze vysla novejsi verze. Prouzek s nabidkou aktualizace zahazovalo vlastni bezpecnostni nastaveni stranky (CSP) drive, nez se stihl serveru zeptat, takze zustal trvale skryty. Tim se nikdy neprojevily ani opravy z 1.6.2 a 1.6.3. POZOR: oprava je v klientovi, ktery aktualizaci provadi - kdo ma 1.6.3 a starsi, musi 1.6.4 nainstalovat jednou rucne, teprve pak se nabidka bude zobrazovat sama. BETA/NOT_FINAL."
   },
   "collection": {
     "version": "1.1.31",
