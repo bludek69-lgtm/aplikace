@@ -14,13 +14,13 @@
     "sha256_mac": "ed90cd0a892f3a4f6e96f0e6d95fd838aa94f9ff945bee86ff437b7a4f07c1c1"
   },
   "italia": {
-    "version": "1.6.4",
+    "version": "1.6.5",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.6.4-Setup.exe",
-    "sha256": "b20881e527fae3ab00298b7827b9a6d62b12e4422df27a9eb737f9b822c60817",
-    "size": 18104320,
-    "date": "2026-08-04",
-    "notes": "1.6.4 beta: OPRAVA OZNAMENI O NOVE VERZI - aplikace nikdy nerekla, ze vysla novejsi verze. Prouzek s nabidkou aktualizace zahazovalo vlastni bezpecnostni nastaveni stranky (CSP) drive, nez se stihl serveru zeptat, takze zustal trvale skryty. Tim se nikdy neprojevily ani opravy z 1.6.2 a 1.6.3. POZOR: oprava je v klientovi, ktery aktualizaci provadi - kdo ma 1.6.3 a starsi, musi 1.6.4 nainstalovat jednou rucne, teprve pak se nabidka bude zobrazovat sama. BETA/NOT_FINAL."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.6.5-Setup.exe",
+    "sha256": "13abe37f372a2a963b246ed92b85491bfd3f0c436997ee751ae214503536c1ad",
+    "size": 18104976,
+    "date": "2026-08-07",
+    "notes": "1.6.5 beta: PRVNI VYDANI, KTERE BY MELA APLIKACE NABIDNOUT SAMA. Do 1.6.3 vcetne se nabidka aktualizace nikdy nezobrazila (zahazovala ji vlastni CSP stranky), takze tichy update nikdy nikdo neprovedl; 1.6.4 to opravila a tohle vydani je jeho prvni skutecne overeni. Dale opraven text v prehledu novinek u verze 1.6.3 - puvodni vysvetleni bylo mylne a bylo vyvraceno merenim. Zadna zmena chovani aplikace. Kdo ma 1.6.3 a starsi, musi jednou nainstalovat rucne. BETA/NOT_FINAL."
   },
   "collection": {
     "version": "1.1.31",
