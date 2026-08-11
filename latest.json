@@ -14,13 +14,13 @@
     "sha256_mac": "ff0ec4c5010ec50da8f41eec4afdc1665e281cbd31e2ab96f5225623a36e8390"
   },
   "italia": {
-    "version": "1.6.5",
+    "version": "1.7.0",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.6.5-Setup.exe",
-    "sha256": "13abe37f372a2a963b246ed92b85491bfd3f0c436997ee751ae214503536c1ad",
-    "size": 18104976,
-    "date": "2026-08-10",
-    "notes": "1.6.5 beta: PRVNI VYDANI, KTERE BY MELA APLIKACE NABIDNOUT SAMA. Do 1.6.3 vcetne se nabidka aktualizace nikdy nezobrazila (zahazovala ji vlastni CSP stranky), takze tichy update nikdy nikdo neprovedl; 1.6.4 to opravila a tohle vydani je jeho prvni skutecne overeni. Dale opraven text v prehledu novinek u verze 1.6.3 - puvodni vysvetleni bylo mylne a bylo vyvraceno merenim. Zadna zmena chovani aplikace. Kdo ma 1.6.3 a starsi, musi jednou nainstalovat rucne. BETA/NOT_FINAL."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.7.0-Setup.exe",
+    "sha256": "e1bf0d877defe8f1df572157ce9061d9b07852b35ac8c2de33901d390b79f357",
+    "size": 18192897,
+    "date": "2026-08-11",
+    "notes": "1.7.0 beta: AI AUTOPILOT - automaticky planovac cesty. Odpovis na par otazek a navrhne celou cestu: trasu, rozdeleni na dny, konkretni zastavky podel trasy i konkretni ubytovani, ve trech variantach, ktere se lisi tempem, typem ubytovani i tolerovanou zajizdkou. Nic si nevymysli - u kazdeho cisla je videt, odkud pochazi, a co nejde zjistit, zustane prazdne. Legalitu prespani netvrdi nikdy. Pred ulozenim plánu vznikne overena zaloha; kdyz se nepovede, plan se NEULOZI. Planovani je lokalni, do cloudu neodejde nic, dokud si to sam nezapnes. BETA/NOT_FINAL."
   },
   "collection": {
     "version": "1.1.31",
