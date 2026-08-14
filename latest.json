@@ -1,40 +1,40 @@
 {
-  "meal-planner": {
-    "version": "1.0.1",
-    "stage": "final",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v1.0.1-Setup.exe",
-    "sha256": "4904af77498016861a003f46d383d7f492f951af0958313191d6ba6bb2cd7c8a"
-  },
-  "budline": {
-    "version": "1.2.90",
-    "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.90-Setup.exe",
-    "sha256": "13bc9e20673ab6ace59fbb8a56d8ec5ebe3128617da088ecf32e175a3134ce1c",
-    "url_mac": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel.dmg",
-    "sha256_mac": "f54084b288ef7cffebd4bfb53d8b911e440580c2a44cbe16b65b396b686f2902"
-  },
-  "italia": {
-    "version": "1.8.0",
-    "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.8.0-Setup.exe",
-    "sha256": "8eed9e3cf17bd2bd1fe1cf22b8a44b141b59470a21deac496c71f37bf577bdfd",
-    "size": 18204818,
-    "date": "2026-08-13",
-    "notes": "1.8.0 beta: Trasa po skutecne silnici a rozdeleni trasy do dnu. Planovac trasy umi prepocet po silnici (OSRM) - kilometry a casy jsou pak routovane a naklady to poctive ukazou jako routovanou trasu misto odhadu. U bodu trasy jde nastavit den prijezdu - Roadtrip pak hlida denni kilometry a limity jizdy po dnech, zastavky ukazuji Den N. Zastavky podel trasy umi Zmerit po silnici - skutecna zajizdka v km i minutach; co se zmerit nepovede, zustane viditelne jen odhad. Opravy: dvojklik na Zalozit cestu uz nevytvori cestu dvakrat a stejnojmenna cesta tise neprepise data te prvni; okno Co je noveho jde zavrit klavesou Escape; na mobilu tlacitko Nahlasit problem neprekryva spodni listu. BETA/NOT_FINAL."
-  },
-  "collection": {
-    "version": "1.1.33",
-    "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.33-Setup.exe",
-    "sha256": "6f5f99d5e846f85a56a8c86cef3216bcdb564c5b84f9eced6399e1bf93b0a974",
-    "size": 35960902,
-    "date": "2026-08-14",
-    "notes": "1.1.33 beta: audit batch — 19 oprav bezpecnosti a spolehlivosti. Foceni telefonem chrani 4mistny PIN z PC (token uz nedostane kdokoli na Wi-Fi); SSRF ochrana i pres presmerovani; upload fotek overuje skutecny obsah (magic bytes) a /photos ma nosniff; zalohy s quick_check pri startu i vytvoreni + rotace ZIP; vicekrokove zapisy atomicke; opakovany import nevyrabi duplicity; spravne casy (UTC); Decimal kurzy; klic v hlavicce. Frozen smoke 12/12, upgrade QA 1.1.32->1.1.33 17/17 PASS (data byte-identicka). Published SHA verified. BETA/NOT_FINAL."
-  },
-  "tenispark": {
-    "version": "0.2.8",
-    "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.8-Setup.exe",
-    "sha256": "2c61ba1d97f629956826f235382a17f52de92a6ad11c2fe0fa73e74ff00163b1"
-  }
+ "meal-planner": {
+  "version": "1.0.1",
+  "stage": "final",
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v1.0.1-Setup.exe",
+  "sha256": "4904af77498016861a003f46d383d7f492f951af0958313191d6ba6bb2cd7c8a"
+ },
+ "budline": {
+  "version": "1.2.90",
+  "stage": "beta",
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.90-Setup.exe",
+  "sha256": "13bc9e20673ab6ace59fbb8a56d8ec5ebe3128617da088ecf32e175a3134ce1c",
+  "url_mac": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel.dmg",
+  "sha256_mac": "f54084b288ef7cffebd4bfb53d8b911e440580c2a44cbe16b65b396b686f2902"
+ },
+ "italia": {
+  "version": "1.9.0",
+  "stage": "beta",
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.9.0-Setup.exe",
+  "sha256": "9645f5dfb09fb5f04952a522257844639cc75e6680270aaff27b0c97f48df6e0",
+  "size": 18216774,
+  "date": "2026-08-14",
+  "notes": "1.9.0 beta: Ceny a fotky ubytovani od skutecneho poskytovatele (LiteAPI) - volitelne, s vlastnim klicem. Hledani ubytovani na mape umi novy zdroj: u hotelu se zobrazi skutecna cena za pobyt, hvezdicky, hodnoceni hostu i fotka; cena se pta na konkretni termin a pocet osob. Klic se zadava na strance Konektory a drzi ho lokalni server desktopove aplikace - do prohlizece ani zalohy se nedostane. Bez klice se aplikace chova presne jako dosud (OpenStreetMap bez klice). Aplikace pres poskytovatele nikdy nerezervuje - volaji se jen ctecí dotazy; hotel bez ceny od poskytovatele zadnou neukazuje, nic se nedopocitava. BETA/NOT_FINAL."
+ },
+ "collection": {
+  "version": "1.1.33",
+  "stage": "beta",
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.33-Setup.exe",
+  "sha256": "6f5f99d5e846f85a56a8c86cef3216bcdb564c5b84f9eced6399e1bf93b0a974",
+  "size": 35960902,
+  "date": "2026-08-14",
+  "notes": "1.1.33 beta: audit batch — 19 oprav bezpecnosti a spolehlivosti. Foceni telefonem chrani 4mistny PIN z PC (token uz nedostane kdokoli na Wi-Fi); SSRF ochrana i pres presmerovani; upload fotek overuje skutecny obsah (magic bytes) a /photos ma nosniff; zalohy s quick_check pri startu i vytvoreni + rotace ZIP; vicekrokove zapisy atomicke; opakovany import nevyrabi duplicity; spravne casy (UTC); Decimal kurzy; klic v hlavicce. Frozen smoke 12/12, upgrade QA 1.1.32->1.1.33 17/17 PASS (data byte-identicka). Published SHA verified. BETA/NOT_FINAL."
+ },
+ "tenispark": {
+  "version": "0.2.8",
+  "stage": "beta",
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.8-Setup.exe",
+  "sha256": "2c61ba1d97f629956826f235382a17f52de92a6ad11c2fe0fa73e74ff00163b1"
+ }
 }
