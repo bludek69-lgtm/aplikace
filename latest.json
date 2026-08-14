@@ -23,13 +23,13 @@
     "notes": "1.8.0 beta: Trasa po skutecne silnici a rozdeleni trasy do dnu. Planovac trasy umi prepocet po silnici (OSRM) - kilometry a casy jsou pak routovane a naklady to poctive ukazou jako routovanou trasu misto odhadu. U bodu trasy jde nastavit den prijezdu - Roadtrip pak hlida denni kilometry a limity jizdy po dnech, zastavky ukazuji Den N. Zastavky podel trasy umi Zmerit po silnici - skutecna zajizdka v km i minutach; co se zmerit nepovede, zustane viditelne jen odhad. Opravy: dvojklik na Zalozit cestu uz nevytvori cestu dvakrat a stejnojmenna cesta tise neprepise data te prvni; okno Co je noveho jde zavrit klavesou Escape; na mobilu tlacitko Nahlasit problem neprekryva spodni listu. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.1.32",
+    "version": "1.1.33",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.32-Setup.exe",
-    "sha256": "6c0235dc11a0edf9b1638522fa06774a3d3f1cb2af2aec04ff9487401980becd",
-    "size": 35950093,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.33-Setup.exe",
+    "sha256": "6f5f99d5e846f85a56a8c86cef3216bcdb564c5b84f9eced6399e1bf93b0a974",
+    "size": 35960902,
     "date": "2026-08-14",
-    "notes": "1.1.32 beta: bezpecnost exportu (C-07). CSV, Excel i CSV v ZIP zaloze neutralizuji formula/CSV injection — bunka zacinajici =,+,-,@ nebo tab/CR se prefixuje apostrofem (Excel/Sheets ji vezme jako text, ne vzorec); obsah mohl pochazet z ciziho webu pres lot-import. Cisla i zaporna zustavaji cisly. Upgrade QA 1.1.31->1.1.32 PASS (data zachovana, DB byte-identicka). Published SHA verified. BETA/NOT_FINAL."
+    "notes": "1.1.33 beta: audit batch — 19 oprav bezpecnosti a spolehlivosti. Foceni telefonem chrani 4mistny PIN z PC (token uz nedostane kdokoli na Wi-Fi); SSRF ochrana i pres presmerovani; upload fotek overuje skutecny obsah (magic bytes) a /photos ma nosniff; zalohy s quick_check pri startu i vytvoreni + rotace ZIP; vicekrokove zapisy atomicke; opakovany import nevyrabi duplicity; spravne casy (UTC); Decimal kurzy; klic v hlavicce. Frozen smoke 12/12, upgrade QA 1.1.32->1.1.33 17/17 PASS (data byte-identicka). Published SHA verified. BETA/NOT_FINAL."
   },
   "tenispark": {
     "version": "0.2.8",
