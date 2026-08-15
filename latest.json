@@ -14,13 +14,13 @@
   "sha256_mac": "645622f6368b428c52e23e71c56d72bad691f8613a977b557bf56e4dc88eab67"
  },
  "italia": {
-  "version": "1.9.1",
+  "version": "1.9.2",
   "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.9.1-Setup.exe",
-  "sha256": "1252cdaa3435a928f6fd2a6856e054eb8cd22360eac16c7fe82292a2e851911a",
-  "size": 18215655,
+  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.9.2-Setup.exe",
+  "sha256": "fc0f702c40ea3be20efb934d98e082ea836133254d506cca05c8929fff051aab",
+  "size": 18219338,
   "date": "2026-08-15",
-  "notes": "1.9.1 beta: OPRAVA CENY U UBYTOVANI. U ubytovani z LiteAPI se zobrazovala velkoobchodni sazba pro partnery, ne cena, kterou pri rezervaci na oficialni strance opravdu zaplatis - rozdil byl u nekterych hotelu vyrazny (v overovanem pripade 1296 EUR misto 3697 EUR za dve noci). Nove se ukazuje doporucena prodejni cena a je oznacena jako orientacni cena od poskytovatele (neni to rezervace ani zavazna nabidka). Klic, ktery nevypada jako klic LiteAPI v3 (musi zacinat sand_ nebo prod_), aplikace rovnou odmitne a rekne proc. Bez klice se nic nemeni. BETA/NOT_FINAL."
+  "notes": "1.9.2 beta: OPRAVA AUTOPILOTA + NASEPTAVAC MIST. V Autopilotu zmizela kolonka hned po napsani prvniho pismene - do planu se tak dostalo treba jen 'R' misto 'Rim' a cesta se pocitala k neexistujicimu mistu; formular ted zustava cely a drzi, co do nej napises. Policka 'Kam chces jet?' a 'Odkud vyrazis?' maji naseptavac skutecnych mist z OpenStreetMap (hleda i pres hranice, ukazuje zemi; vlastni text zustava mozny). Stranka Autopilota je prehlednejsi - uvod rika, co pro tebe udela a co neudela, formular je ve dvou sloupcich s napovedou, co jeste chybi. Stranka Konektory ukazuje pravdivy stav (zmizelo sest 'pripravenych API', ktere nejsou zdarma nebo jsou zbytecne; trasa po silnici je vedena jako ziva a bez klice). BETA/NOT_FINAL."
  },
  "collection": {
   "version": "1.1.34",
