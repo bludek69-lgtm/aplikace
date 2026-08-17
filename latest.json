@@ -23,13 +23,13 @@
     "notes": "1.9.2 beta: OPRAVA AUTOPILOTA + NASEPTAVAC MIST. V Autopilotu zmizela kolonka hned po napsani prvniho pismene - do planu se tak dostalo treba jen 'R' misto 'Rim' a cesta se pocitala k neexistujicimu mistu; formular ted zustava cely a drzi, co do nej napises. Policka 'Kam chces jet?' a 'Odkud vyrazis?' maji naseptavac skutecnych mist z OpenStreetMap (hleda i pres hranice, ukazuje zemi; vlastni text zustava mozny). Stranka Autopilota je prehlednejsi - uvod rika, co pro tebe udela a co neudela, formular je ve dvou sloupcich s napovedou, co jeste chybi. Stranka Konektory ukazuje pravdivy stav (zmizelo sest 'pripravenych API', ktere nejsou zdarma nebo jsou zbytecne; trasa po silnici je vedena jako ziva a bez klice). BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.1.35",
+    "version": "1.1.36",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.35-Setup.exe",
-    "sha256": "1d9f1b6b8c054bbe534435c9b33455f8504d55a8dbc3942e6d6572695e7df7a3",
-    "size": 36062080,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.36-Setup.exe",
+    "sha256": "ee673c6aa4029a1577466d299935c9c1c3883a4e5ed2eed644e35314a7e1000a",
+    "size": 36075227,
     "date": "2026-08-14",
-    "notes": "1.1.35 beta: kos na polozky, konec fontu z internetu a oprava ukazkoveho posudku. Polozku sbirky jde konecne smazat — nejdriv do kose (vratne, zmizi z vypisu, statistik i exportu), trvale az odtud a jen s potvrzenim; fotky a historie zustavaji. Aplikace uz pri startu nestahuje pisma z Google CDN. Ukazkovy posudek zase vytvori PDF i DOCX (od 1.1.33 koncil blokaci). Bezpecnost: nazev AI modelu nemuze prepsat volanou adresu a model z prohlizece musi byt z povoleneho seznamu. Published SHA verified. BETA/NOT_FINAL."
+    "notes": "1.1.36 beta: strop utraty za AI. Placena volani (rozpoznani fotky, hledani ceny, expertni analyzy i posudek) se pocitaji proti dennimu a mesicnimu stropu — vychozi 50/den a 500/mesic. Pri vycerpani se volani VUBEC NEODESLE, takze rozbity cyklus ani netrpelive klikani nemuze utratit vic, nez je povoleno. Kolik zbyva vidis v Systém → Klice & API a limity si tam muzes zmenit. Strop prezije restart a plati i pro odjisteny expertni posudek. Published SHA verified. BETA/NOT_FINAL."
   },
   "tenispark": {
     "version": "0.2.8",
