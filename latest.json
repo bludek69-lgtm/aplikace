@@ -1,40 +1,40 @@
 {
- "meal-planner": {
-  "version": "1.0.1",
-  "stage": "final",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v1.0.1-Setup.exe",
-  "sha256": "4904af77498016861a003f46d383d7f492f951af0958313191d6ba6bb2cd7c8a"
- },
- "budline": {
-  "version": "1.2.93",
-  "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.93-Setup.exe",
-  "sha256": "9c83211e34f076731c6a389619a9e36e6413148a671d26b630a3b14010e3942a",
-  "url_mac": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel.dmg",
-  "sha256_mac": "645622f6368b428c52e23e71c56d72bad691f8613a977b557bf56e4dc88eab67"
- },
- "italia": {
-  "version": "1.9.2",
-  "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.9.2-Setup.exe",
-  "sha256": "fc0f702c40ea3be20efb934d98e082ea836133254d506cca05c8929fff051aab",
-  "size": 18219338,
-  "date": "2026-08-15",
-  "notes": "1.9.2 beta: OPRAVA AUTOPILOTA + NASEPTAVAC MIST. V Autopilotu zmizela kolonka hned po napsani prvniho pismene - do planu se tak dostalo treba jen 'R' misto 'Rim' a cesta se pocitala k neexistujicimu mistu; formular ted zustava cely a drzi, co do nej napises. Policka 'Kam chces jet?' a 'Odkud vyrazis?' maji naseptavac skutecnych mist z OpenStreetMap (hleda i pres hranice, ukazuje zemi; vlastni text zustava mozny). Stranka Autopilota je prehlednejsi - uvod rika, co pro tebe udela a co neudela, formular je ve dvou sloupcich s napovedou, co jeste chybi. Stranka Konektory ukazuje pravdivy stav (zmizelo sest 'pripravenych API', ktere nejsou zdarma nebo jsou zbytecne; trasa po silnici je vedena jako ziva a bez klice). BETA/NOT_FINAL."
- },
- "collection": {
-  "version": "1.1.34",
-  "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.34-Setup.exe",
-  "sha256": "90a2e405d82dcc0603e7b98a932b177c32a5b6a104c85d8b6a36d0d324ef8472",
-  "size": 36055609,
-  "date": "2026-08-14",
-  "notes": "1.1.34 beta: referencni knihovna a atlas poskozeni. Expertiza ma novou zalozku s galerii vzoru, detailem s vyznacenymi markanty, porovnanim dvou kusu vedle sebe a atlasem 49 typu padelku a poskozeni; u deseti typu je odborna definice s odkazem na zdroj (obrazky zustavaji u zdroje, nekopiruji se). Nove 'Moje skeny': vlastni poskozene znamky se analyzuji cele na tvem pocitaci (nic se nikam neodesila), aplikace navrhne kde vypada vada a ty ji potvrdis. Opravy: atomicky hromadny zapis, zdravi knihovny i nad read-only DB, par prava x padelek vyzaduje shodu nominalu. Published SHA verified. BETA/NOT_FINAL."
- },
- "tenispark": {
-  "version": "0.2.8",
-  "stage": "beta",
-  "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.8-Setup.exe",
-  "sha256": "2c61ba1d97f629956826f235382a17f52de92a6ad11c2fe0fa73e74ff00163b1"
- }
+  "meal-planner": {
+    "version": "1.0.1",
+    "stage": "final",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/MealPlanner-v1.0.1-Setup.exe",
+    "sha256": "4904af77498016861a003f46d383d7f492f951af0958313191d6ba6bb2cd7c8a"
+  },
+  "budline": {
+    "version": "1.2.93",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel-v1.2.93-Setup.exe",
+    "sha256": "9c83211e34f076731c6a389619a9e36e6413148a671d26b630a3b14010e3942a",
+    "url_mac": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/BudLinePanel.dmg",
+    "sha256_mac": "645622f6368b428c52e23e71c56d72bad691f8613a977b557bf56e4dc88eab67"
+  },
+  "italia": {
+    "version": "1.9.2",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.9.2-Setup.exe",
+    "sha256": "fc0f702c40ea3be20efb934d98e082ea836133254d506cca05c8929fff051aab",
+    "size": 18219338,
+    "date": "2026-08-15",
+    "notes": "1.9.2 beta: OPRAVA AUTOPILOTA + NASEPTAVAC MIST. V Autopilotu zmizela kolonka hned po napsani prvniho pismene - do planu se tak dostalo treba jen 'R' misto 'Rim' a cesta se pocitala k neexistujicimu mistu; formular ted zustava cely a drzi, co do nej napises. Policka 'Kam chces jet?' a 'Odkud vyrazis?' maji naseptavac skutecnych mist z OpenStreetMap (hleda i pres hranice, ukazuje zemi; vlastni text zustava mozny). Stranka Autopilota je prehlednejsi - uvod rika, co pro tebe udela a co neudela, formular je ve dvou sloupcich s napovedou, co jeste chybi. Stranka Konektory ukazuje pravdivy stav (zmizelo sest 'pripravenych API', ktere nejsou zdarma nebo jsou zbytecne; trasa po silnici je vedena jako ziva a bez klice). BETA/NOT_FINAL."
+  },
+  "collection": {
+    "version": "1.1.35",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.1.35-Setup.exe",
+    "sha256": "1d9f1b6b8c054bbe534435c9b33455f8504d55a8dbc3942e6d6572695e7df7a3",
+    "size": 36062080,
+    "date": "2026-08-14",
+    "notes": "1.1.35 beta: kos na polozky, konec fontu z internetu a oprava ukazkoveho posudku. Polozku sbirky jde konecne smazat — nejdriv do kose (vratne, zmizi z vypisu, statistik i exportu), trvale az odtud a jen s potvrzenim; fotky a historie zustavaji. Aplikace uz pri startu nestahuje pisma z Google CDN. Ukazkovy posudek zase vytvori PDF i DOCX (od 1.1.33 koncil blokaci). Bezpecnost: nazev AI modelu nemuze prepsat volanou adresu a model z prohlizece musi byt z povoleneho seznamu. Published SHA verified. BETA/NOT_FINAL."
+  },
+  "tenispark": {
+    "version": "0.2.8",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/TenisPark-v0.2.8-Setup.exe",
+    "sha256": "2c61ba1d97f629956826f235382a17f52de92a6ad11c2fe0fa73e74ff00163b1"
+  }
 }
