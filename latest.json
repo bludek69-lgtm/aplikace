@@ -23,13 +23,13 @@
     "notes": "1.9.2 beta: OPRAVA AUTOPILOTA + NASEPTAVAC MIST. V Autopilotu zmizela kolonka hned po napsani prvniho pismene - do planu se tak dostalo treba jen 'R' misto 'Rim' a cesta se pocitala k neexistujicimu mistu; formular ted zustava cely a drzi, co do nej napises. Policka 'Kam chces jet?' a 'Odkud vyrazis?' maji naseptavac skutecnych mist z OpenStreetMap (hleda i pres hranice, ukazuje zemi; vlastni text zustava mozny). Stranka Autopilota je prehlednejsi - uvod rika, co pro tebe udela a co neudela, formular je ve dvou sloupcich s napovedou, co jeste chybi. Stranka Konektory ukazuje pravdivy stav (zmizelo sest 'pripravenych API', ktere nejsou zdarma nebo jsou zbytecne; trasa po silnici je vedena jako ziva a bez klice). BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "stage": "final",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.2.0-Setup.exe",
-    "sha256": "64a47cae358c51b34ec969fa716d44048b4e450179aeff8533e281f6edac3f6f",
-    "size": 36079296,
-    "date": "2026-08-14",
-    "notes": "1.2.0 FINAL — aplikace opousti beta. Funkce jsou hotove a odzkousene, data maji poradne pojistky: obnovitelne zalohy s kontrolou, kos na omylem smazane polozky, strop utraty za placena volani a zadne stahovani z internetu bez tveho vedomi. CO SE NEMENI: posudek zustava PREDBEZNYM VIZUALNIM POSOUZENIM, NENI oficialni expertiza ani certifikat pravosti; kalibrace pravosti neprobehla. Pro prodej ci pojisteni vzdy vyzadej posudek autorizovaneho znalce. Published SHA verified."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.2.1-Setup.exe",
+    "sha256": "e5397186ffb125fdcca41d52a42db8a4b3be35b7c4baedebac0fc2c924c9d127",
+    "size": 36105243,
+    "date": "2026-08-18",
+    "notes": "1.2.1 — KATALOGOVE CENY zadavane rucne. Ke kazde polozce lze zapsat katalogovou cenu (Michel, Pofis, Scott a dalsi) s rocnikem vydani a kvalitou; hromadne zadani zvladne celou sbirku najednou. Katalogova cena je ORIENTACNI udaj z katalogu, NENI to trzni ani prodejni cena a aplikace ji NIKDY neodhaduje — zadava ji vyhradne uzivatel; do realizovanych cen ani do posudku se nezapocitava. CO SE NEMENI: posudek zustava PREDBEZNYM VIZUALNIM POSOUZENIM, NENI oficialni expertiza ani certifikat pravosti; kalibrace pravosti neprobehla. Pro prodej ci pojisteni vzdy vyzadej posudek autorizovaneho znalce. Published SHA verified."
   },
   "tenispark": {
     "version": "0.2.8",
