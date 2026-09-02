@@ -23,13 +23,13 @@
     "notes": "1.9.2 beta: OPRAVA AUTOPILOTA + NASEPTAVAC MIST. V Autopilotu zmizela kolonka hned po napsani prvniho pismene - do planu se tak dostalo treba jen 'R' misto 'Rim' a cesta se pocitala k neexistujicimu mistu; formular ted zustava cely a drzi, co do nej napises. Policka 'Kam chces jet?' a 'Odkud vyrazis?' maji naseptavac skutecnych mist z OpenStreetMap (hleda i pres hranice, ukazuje zemi; vlastni text zustava mozny). Stranka Autopilota je prehlednejsi - uvod rika, co pro tebe udela a co neudela, formular je ve dvou sloupcich s napovedou, co jeste chybi. Stranka Konektory ukazuje pravdivy stav (zmizelo sest 'pripravenych API', ktere nejsou zdarma nebo jsou zbytecne; trasa po silnici je vedena jako ziva a bez klice). BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "stage": "final",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.2.2-Setup.exe",
-    "sha256": "084c27e61c4b6ecf78e97b246789eac1353307fbcd0a8871ff902935ab491974",
-    "size": 36107546,
-    "date": "2026-08-19",
-    "notes": "1.2.2 — OPRAVA nahlasena uzivatelem. Zalozeni posudku s neplatnym ID polozky (preklep v NEPOVINNEM poli) shodilo backend a ukazalo jen 'Internal Server Error'. Nyni prijde srozumitelna ceska hlaska vcetne prikladu skutecneho ID ze sbirky; prazdne pole je dal v poradku. Osetreno i pridani predmetu do posudku, kde se neplatne ID drive ulozilo TISE a posudek pak odkazoval na neexistujici kus, a pripad polozky v kosi. CO SE NEMENI: posudek zustava PREDBEZNYM VIZUALNIM POSOUZENIM, NENI oficialni expertiza ani certifikat pravosti; kalibrace pravosti neprobehla. Published SHA verified."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.2.3-Setup.exe",
+    "sha256": "45ff0d985ac14b69f51dae230183e9a11408c0a456e08c1b9746da7931528303",
+    "size": 36107777,
+    "date": "2026-09-02",
+    "notes": "1.2.3 — LUPA v detailu polozky. Klik na fotku (nebo Enter z klavesnice) otevre prohlizec pres celou obrazovku: zvetseni az 8x, kolecko mysi zoomuje k mistu kurzoru, tazeni = posun, dvojklik 1x/3x, na dotyku pinch dvema prsty, klavesy + - 0 sipky Esc. Prepinani mezi fotkami polozky (lic/rub/detail); u jedine fotky se sipky skryji. Ctyri filtry (Puvodni, Seda, Kontrast, Hrany) jsou POMUCKA PRO OKO a nic nevyhodnocuji. Fotka se nikam neodesila, vse bezi lokalne v prohlizeci. Dosud slo znamku zvetsit jen oklikou pres Expertizu. CO SE NEMENI: posudek zustava PREDBEZNYM VIZUALNIM POSOUZENIM, NENI oficialni expertiza ani certifikat pravosti; kalibrace pravosti neprobehla. Published SHA verified."
   },
   "tenispark": {
     "version": "0.2.8",
