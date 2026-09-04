@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "stage": "final",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.2.4-Setup.exe",
-    "sha256": "a7ab4acc99a69d62bbd31f9a2c8305607c6d76d77a0405fbae31067ad256eeb3",
-    "size": 36192867,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.2.5-Setup.exe",
+    "sha256": "045b335223da1cfca1c58f54ab16da94eb3c9bae40aca0890979b28bee6516ac",
+    "size": 36291533,
     "date": "2026-09-04",
-    "notes": "1.2.4 — KALIBRACE PRAVOSTI dokoncena end-to-end: stranka Kalibrace pravosti (stav datasetu, pruvodce 7 kroku, akce), Zdroje kalibracnich dat (Smithsonian / Philatelic Foundation / APS-APEX / RPSL, zivy research, deficit, rozpocet 300/80/150), cilene hledani chybejicich vzorku v Smithsonian Open Access (jen CC0 a jen vyslovna klasifikace v zaznamu; kandidaty schvaluje vlastnik po jednom, nic se neschvaluje samo), rucni labeled vzorek se dvema soubory (fotka + atest), prohlizec GT datasetu s auditovanym vyrazenim, zamykani blind setu, kalibrace = vyber prahu jen z validation, komponenta Kalibrace pravosti ve Zdravi knihovny. CO SE NEMENI: posudek zustava PREDBEZNYM VIZUALNIM POSOUZENIM, NENI oficialni expertiza ani certifikat pravosti; kalibrace pravosti neprobehla (ground truth = 0) — stav se odvozuje z mereni, nikdy rucne. Published SHA verified."
+    "notes": "1.2.5 — KALIBRACE PRAVOSTI: vlastni atestovane znamky (fotografie + atest, lokalni analyza, intake slozka; vzdy KANDIDAT, nikdy automaticky ground truth), pozmenene prave znamky = samostatna referencni trida, expertni autority BPP / SCF / VOPh schvalene vlastnikem (AIEP jen adresar), zadosti o prava k obrazkum se stavy SENT / READY FOR MANUAL SEND / GRANTED / PARTIALLY GRANTED / DENIED / UNCLEAR (UNCLEAR = zadne svoleni, kazda odpoved s dokladem), identita exemplare misto hashove podobnosti, ochrana produkcni databaze (write guard), pravdive sitove ucetnictvi v Health. Vlastnik schvalil 18 vzorku padelku jako ground truth, 0 pravych -> NOT_CALIBRATED_FOR_AUTHENTICITY. CO SE NEMENI: posudek zustava PREDBEZNYM VIZUALNIM POSOUZENIM, NENI oficialni expertiza ani certifikat pravosti; kalibrace pravosti neprobehla — stav se odvozuje z mereni, nikdy rucne. Published SHA verified."
   },
   "tenispark": {
     "version": "0.2.8",
