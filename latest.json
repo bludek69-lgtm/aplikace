@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.2.3",
+    "version": "1.2.4",
     "stage": "final",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.2.3-Setup.exe",
-    "sha256": "45ff0d985ac14b69f51dae230183e9a11408c0a456e08c1b9746da7931528303",
-    "size": 36107777,
-    "date": "2026-09-02",
-    "notes": "1.2.3 — LUPA v detailu polozky. Klik na fotku (nebo Enter z klavesnice) otevre prohlizec pres celou obrazovku: zvetseni az 8x, kolecko mysi zoomuje k mistu kurzoru, tazeni = posun, dvojklik 1x/3x, na dotyku pinch dvema prsty, klavesy + - 0 sipky Esc. Prepinani mezi fotkami polozky (lic/rub/detail); u jedine fotky se sipky skryji. Ctyri filtry (Puvodni, Seda, Kontrast, Hrany) jsou POMUCKA PRO OKO a nic nevyhodnocuji. Fotka se nikam neodesila, vse bezi lokalne v prohlizeci. Dosud slo znamku zvetsit jen oklikou pres Expertizu. CO SE NEMENI: posudek zustava PREDBEZNYM VIZUALNIM POSOUZENIM, NENI oficialni expertiza ani certifikat pravosti; kalibrace pravosti neprobehla. Published SHA verified."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.2.4-Setup.exe",
+    "sha256": "a7ab4acc99a69d62bbd31f9a2c8305607c6d76d77a0405fbae31067ad256eeb3",
+    "size": 36192867,
+    "date": "2026-09-04",
+    "notes": "1.2.4 — KALIBRACE PRAVOSTI dokoncena end-to-end: stranka Kalibrace pravosti (stav datasetu, pruvodce 7 kroku, akce), Zdroje kalibracnich dat (Smithsonian / Philatelic Foundation / APS-APEX / RPSL, zivy research, deficit, rozpocet 300/80/150), cilene hledani chybejicich vzorku v Smithsonian Open Access (jen CC0 a jen vyslovna klasifikace v zaznamu; kandidaty schvaluje vlastnik po jednom, nic se neschvaluje samo), rucni labeled vzorek se dvema soubory (fotka + atest), prohlizec GT datasetu s auditovanym vyrazenim, zamykani blind setu, kalibrace = vyber prahu jen z validation, komponenta Kalibrace pravosti ve Zdravi knihovny. CO SE NEMENI: posudek zustava PREDBEZNYM VIZUALNIM POSOUZENIM, NENI oficialni expertiza ani certifikat pravosti; kalibrace pravosti neprobehla (ground truth = 0) — stav se odvozuje z mereni, nikdy rucne. Published SHA verified."
   },
   "tenispark": {
     "version": "0.2.8",
