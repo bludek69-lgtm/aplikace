@@ -29,6 +29,14 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.2.6
+- Nová stránka Jednoduché ověření: nahraješ líc a rub, aplikace zkontroluje kvalitu skenu, vybereš model Gemini a spustí se všech 14 kontrol — včetně tvých master promptů (identifikace, stav a pravost, tržní ocenění, obchodní rozbor) a hledání na internetu.
+- Výstupní zpráva: identifikace, orientační cena, úroveň podezření na pravost (nikdy procento), stav, tabulka použitých kontrol, internetové zdroje, export do PDF a DOCX.
+- Tokeny a cena ověření: skutečné tokeny × oficiální ceník Google podle modelu (USD i Kč), odhad už před spuštěním.
+- Placený režim jen s klíčem a povolenými placenými voláními; jinak bezplatná simulace, která do Googlu nic nepošle.
+- Vypnutý model Gemini 2.0 Flash a řada 1.5 zmizely z výběru modelů v celé aplikaci; nejlevnější volbou je nově Gemini 2.5 Flash-Lite.
+- Nemění se: posudek je předběžné vizuální posouzení, není oficiální expertíza; kalibrace pravosti neproběhla (0 pravých vzorků).
+
 ### 1.2.5
 - Vlastní atestované známky: fotografie + atest nebo posudek, nejdřív lokální analýza (nic se nezapíše), pak uložení jako kandidát — ground truth vzniká jen po tvém schválení. Dávkový import z intake složky, originály se nemění.
 - Pozměněné pravé známky (regumované, reperforované…) jako samostatná referenční třída mimo binární dataset pravý / padělek.
