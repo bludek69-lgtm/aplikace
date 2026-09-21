@@ -29,6 +29,13 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.2.7
+- Jednoduché ověření si samo dohledá podklady: referenční záznamy variant (Smithsonian — National Postal Museum) a skutečné prodeje z oficiálních výsledků aukcí (Burda Auction).
+- Cena jen doložená prodeji téže známky ve stejném stavu; jinak srozumitelný důvod a jeden další krok. Odhad AI je jen označený jako nedoložený.
+- Shoda fotografie s variantou vyžaduje viditelné rozlišovací znaky; podklady ukazují kandidáty, záměny a co je vylučuje.
+- Jednodušší první krok: stačí fotka líce, odborné údaje jsou nepovinné; průběh ověření a tlačítko Zrušit.
+- Nemění se: posudek je předběžné vizuální posouzení, není oficiální expertíza; kalibrace pravosti neproběhla.
+
 ### 1.2.6
 - Nová stránka Jednoduché ověření: nahraješ líc a rub, aplikace zkontroluje kvalitu skenu, vybereš model Gemini a spustí se všech 14 kontrol — včetně tvých master promptů (identifikace, stav a pravost, tržní ocenění, obchodní rozbor) a hledání na internetu.
 - Výstupní zpráva: identifikace, orientační cena, úroveň podezření na pravost (nikdy procento), stav, tabulka použitých kontrol, internetové zdroje, export do PDF a DOCX.

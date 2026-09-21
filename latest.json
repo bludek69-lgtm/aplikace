@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.2.6",
+    "version": "1.2.7",
     "stage": "final",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.2.6-Setup.exe",
-    "sha256": "820340536f68e9d814b9a435a12b1532c689e91c79ed2c5f75e42c7d505b6b2e",
-    "size": 36360462,
-    "date": "2026-09-18",
-    "notes": "1.2.6 — JEDNODUCHE OVERENI: nova stranka (Expertiza a posudky -> Jednoduche overeni) pro rychle overeni jedne znamky: lic + rub, lokalni kontrola kvality skenu, vyber modelu Gemini s cenikem Google a odhadem ceny, 14 kontrol vcetne master promptu vlastnika (identifikace, stav a pravost, trzni oceneni, obchodni rozbor nakup/prodej) a hledani na internetu pres Google vyhledavani v Gemini; vystupni zprava s identifikaci, orientacni cenou, urovni podezreni na pravost, stavem, tabulkou pouzitych kontrol, internetovymi zdroji, spotrebovanymi tokeny a cenou overeni (USD i Kc), export PDF/DOCX. Placeny rezim jen s klicem a povolenymi placenymi volanimi, jinak bezplatna simulace. Vypnuty model Gemini 2.0 Flash a rada 1.5 zmizely z vyberu modelu v cele aplikaci, nove Gemini 2.5 Flash-Lite. CO SE NEMENI: posudek zustava PREDBEZNYM VIZUALNIM POSOUZENIM, NENI oficialni expertiza ani certifikat pravosti; pravost jen slovni urovni podezreni, nikdy procentem; kalibrace pravosti neprobehla (0 pravych vzorku). Published SHA verified."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.2.7-Setup.exe",
+    "sha256": "10c5377d7e41898d73cd67ae435e65b18ff39a22c18a284621a9e44ecf88e49f",
+    "size": 36597350,
+    "date": "2026-09-21",
+    "notes": "1.2.7 — JEDNODUCHE OVERENI S DOLOZENYMI PODKLADY: po stisku Overit aplikace sama dohleda reference variant (Smithsonian National Postal Museum) a skutecne prodeje z oficialnich vysledku aukci (Burda Auction). Cena se uvede jen z dolozenych prodeju teze varianty ve stejnem stavu, jinak srozumitelny duvod a jeden dalsi krok; rozpeti od AI je jen oznaceny nedolozeny odhad. Shoda fotografie s variantou vyzaduje viditelne rozlisovaci znaky. Jednodussi ovladani: staci fotka lice. Automaticke dohledani zapina spravce. CO SE NEMENI: predbezne vizualni posouzeni, NENI oficialni expertiza; pravost jen slovni urovni podezreni; kalibrace pravosti neprobehla. Published SHA verified."
   },
   "tenispark": {
     "version": "0.2.8",
