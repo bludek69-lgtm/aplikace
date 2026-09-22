@@ -29,6 +29,14 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.2.8 (beta)
+- Rozsah B: Jednoduché ověření jako pomocník s návrhy identity a podmíněnými cenovými podklady. Přesné ocenění konkrétní fotografie NENÍ prokázáno (0 z 20 živých ověření) — proto beta.
+- Odhad AI (zoubkování, zkusmý tisk, forma vydání, stav lepu) se nevydává za doložený stav; správnou variantu už tvrdě nevylučuje. Doložit ho může jen měření okraje (jen přítomnost zoubkování) nebo pozorování rubu.
+- Chybné katalogové číslo od AI aplikace odmítne podle nominálu a sama navrhne kandidáty podle viditelných znaků — i u známek bez vytištěné jednotky.
+- Bez doloženého stavu lepu ukáže podmíněné cenové scénáře podle stavu z prodejů téhož čísla — nejsou to ocenění vašeho kusu.
+- Tokeny a cena: odhad z tokenů × ceník, není to faktura Google. Zabalená aplikace nově obsahuje modul hledání podle znaků (v 1.2.7 chyběl).
+- Nemění se: posudek je předběžné vizuální posouzení, není oficiální expertíza ani ověření pravosti; kalibrace pravosti neproběhla.
+
 ### 1.2.7
 - Jednoduché ověření si samo dohledá podklady: referenční záznamy variant (Smithsonian — National Postal Museum) a skutečné prodeje z oficiálních výsledků aukcí (Burda Auction).
 - Cena jen doložená prodeji téže známky ve stejném stavu; jinak srozumitelný důvod a jeden další krok. Odhad AI je jen označený jako nedoložený.

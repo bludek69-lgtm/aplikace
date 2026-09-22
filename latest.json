@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.2.7",
-    "stage": "final",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.2.7-Setup.exe",
-    "sha256": "10c5377d7e41898d73cd67ae435e65b18ff39a22c18a284621a9e44ecf88e49f",
-    "size": 36597350,
-    "date": "2026-09-21",
-    "notes": "1.2.7 — JEDNODUCHE OVERENI S DOLOZENYMI PODKLADY: po stisku Overit aplikace sama dohleda reference variant (Smithsonian National Postal Museum) a skutecne prodeje z oficialnich vysledku aukci (Burda Auction). Cena se uvede jen z dolozenych prodeju teze varianty ve stejnem stavu, jinak srozumitelny duvod a jeden dalsi krok; rozpeti od AI je jen oznaceny nedolozeny odhad. Shoda fotografie s variantou vyzaduje viditelne rozlisovaci znaky. Jednodussi ovladani: staci fotka lice. Automaticke dohledani zapina spravce. CO SE NEMENI: predbezne vizualni posouzeni, NENI oficialni expertiza; pravost jen slovni urovni podezreni; kalibrace pravosti neprobehla. Published SHA verified."
+    "version": "1.2.8",
+    "stage": "beta",
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.2.8-Setup.exe",
+    "sha256": "9da14611039dfb512ce6208e596be6a72fefb3965a259c3fb7601138d66ba890",
+    "size": 36690422,
+    "date": "2026-09-22",
+    "notes": "1.2.8 BETA — ROZSAH B: Jednoduche overeni jako POMOCNIK s navrhy identity a podminenymi cenovymi podklady. Presne oceneni konkretni fotografie NENI prokazano (0 z 20 zivych overeni) — proto beta. Odhad AI (zoubkovani, forma vydani, stav lepu) se nevydava za dolozeny stav; chybne katalogove cislo od AI aplikace odmitne podle nominalu a navrhne kandidaty ze znaku; bez dolozeneho stavu lepu ukaze podminene cenove scenare podle stavu (nejsou to oceneni kusu). Zabalena aplikace nove obsahuje modul hledani podle znaku (v 1.2.7 chybel). CO SE NEMENI: predbezne vizualni posouzeni, NENI oficialni expertiza ani overeni pravosti; pravost jen slovni urovni podezreni; kalibrace pravosti neprobehla. Published SHA verified."
   },
   "tenispark": {
     "version": "0.2.8",
