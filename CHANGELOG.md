@@ -29,6 +29,12 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.2.9 (beta)
+- Placená volání Gemini se nově zapínají přímo v aplikaci: 🔑 Klíče & API → „Povolit placená volání Gemini“ (zapnutí se potvrzuje, uloží se jen u vás vedle klíče).
+- Opraveno: vložený klíč sám nestačil — placený posudek i placené Jednoduché ověření hlásily „nedostupné“, protože povolení šlo dřív nastavit jen v souboru .env.
+- Bez zaškrtnutí běží posudek i ověření dál jako neplacená simulace; každé placené spuštění účtuje Google podle ceníku.
+- Nemění se: rozsah B (přesné ocenění konkrétní fotografie NENÍ prokázáno), předběžné vizuální posouzení, není oficiální expertíza; kalibrace pravosti neproběhla.
+
 ### 1.2.8 (beta)
 - Rozsah B: Jednoduché ověření jako pomocník s návrhy identity a podmíněnými cenovými podklady. Přesné ocenění konkrétní fotografie NENÍ prokázáno (0 z 20 živých ověření) — proto beta.
 - Odhad AI (zoubkování, zkusmý tisk, forma vydání, stav lepu) se nevydává za doložený stav; správnou variantu už tvrdě nevylučuje. Doložit ho může jen měření okraje (jen přítomnost zoubkování) nebo pozorování rubu.
