@@ -29,6 +29,11 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.3.0 (beta)
+- Volitelné analýzy a upřesnění pro AI v Jednoduchém ověření.
+- Samostatné výsledky jednotlivých známek z listu, kontrola kvality výřezů a společný rozpočet dávky.
+- Přesnost dělení reálných aršíků živým Gemini zatím nebyla změřena.
+
 ### 1.2.9 (beta)
 - Placená volání Gemini se nově zapínají přímo v aplikaci: 🔑 Klíče & API → „Povolit placená volání Gemini“ (zapnutí se potvrzuje, uloží se jen u vás vedle klíče).
 - Opraveno: vložený klíč sám nestačil — placený posudek i placené Jednoduché ověření hlásily „nedostupné“, protože povolení šlo dřív nastavit jen v souboru .env.
