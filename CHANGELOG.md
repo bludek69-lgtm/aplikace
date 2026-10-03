@@ -29,6 +29,12 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.4.0 (beta)
+- Automatické posouzení možností snímku, zachování DPI výřezů a místní geometrie každé známky.
+- Metadatové odhady zoubkování, orientační centrace, ochrana před nedoloženými závěry AI.
+- Katalogové návrhy s konflikty, datované realizace bez duplicit a podmíněný cenový vývoj.
+- DPI nejsou kalibrace; katalogy/historie bez dostatečných důkazů nejsou potvrzené; tarif a pojišťovací hodnota zůstávají nezjištěné.
+
 ### 1.3.0 (beta)
 - Volitelné analýzy a upřesnění pro AI v Jednoduchém ověření.
 - Samostatné výsledky jednotlivých známek z listu, kontrola kvality výřezů a společný rozpočet dávky.

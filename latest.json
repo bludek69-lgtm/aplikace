@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.3.0-Setup.exe",
-    "sha256": "e574be1ca0f61a48132a114fda4067042b83e607eddfcd46dde0164325ce6663",
-    "size": 37275608,
-    "date": "2026-10-02",
-    "notes": "1.3.0 BETA — volitelné analýzy v Jednoduchém ověření, společné i samostatné upřesnění promptů, automatické rozdělení listu a samostatné výsledky jednotlivých známek. Kontrola kvality každého výřezu, ochrana proti překryvům a neúplnému rozdělení, sdílený rozpočet zdrojů a součet nákladů celé dávky. Nejvýše 40 kusů; rub listu se automaticky nepáruje. Přesnost dělení reálných aršíků živým Gemini zatím nebyla změřena. Předběžné vizuální posouzení — NENÍ oficiální expertíza; kalibrace pravosti neproběhla (GENUINE ground truth = 0)."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.4.0-Setup.exe",
+    "sha256": "7e26f0db15a1794527728ef93f9009b889b86ed719394f7989c51d4468d9b164",
+    "size": 37301062,
+    "date": "2026-10-03",
+    "notes": "1.4.0 BETA — automatická dostupnost filatelistických kontrol, zachování pixelů a osových DPI výřezů, místní odhad zoubkování z metadat a geometrie centrace. Ochrana před nedoloženými fyzikálními závěry AI. Katalogové návrhy s konflikty a ročníkem zdroje, datované aukční záznamy bez duplicit a podmíněný cenový vývoj. DPI nejsou ověřená kalibrace; průsvitka, UV, tenčiny a vtlak z běžného skenu nejsou potvrzeny. Katalogové vazby a historické citace zůstávají nepotvrzené, tarif a pojišťovací hodnota bez podkladů nejsou vyčísleny. Obnova zdrojů při novém ověření; bez samostatného periodického monitoru. Předběžné vizuální posouzení, nikoli oficiální expertíza. Přesnost na skutečných známkách není kalibrovaná."
   },
   "tenispark": {
     "version": "0.2.8",
