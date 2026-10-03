@@ -29,6 +29,13 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.5.0 (beta)
+- Automatické archivování každé analyzované známky, fotografií, výsledků a webových odkazů.
+- Ochrana proti duplicitám a obnovení smazaných položek při opakování ověření.
+- Hromadné smazání sbírky po potvrzení do vratného koše.
+- Delcampe search se kvůli robots nečte; eBay, Delcampe a Apify nejsou zapojené do automatického ověření.
+- Uložení neznamená potvrzení pravosti, identity, stavu ani ceny.
+
 ### 1.4.0 (beta)
 - Automatické posouzení možností snímku, zachování DPI výřezů a místní geometrie každé známky.
 - Metadatové odhady zoubkování, orientační centrace, ochrana před nedoloženými závěry AI.
