@@ -29,6 +29,11 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.6.1 (beta)
+- Funkční přepínače čtyř dostupných master promptů přímo u názvu.
+- Výběr společný s kontrolami, cenovým odhadem a uloženým ověřením; vypnuté prompty se přeskočí.
+- Nepodporované ocenění celé sbírky a kontrola aukčního losu zůstávají neaktivní s vysvětlením. NENÍ oficiální expertíza.
+
 ### 1.6.0 (beta)
 - Vizuální kontrola a ruční přiřazení líců a rubů před ověřením více známek.
 - Úprava výřezů a zachování potvrzené vazby v analýzách, historii, exportech a sbírce.

@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.6.0-Setup.exe",
-    "sha256": "2d062e631b6ea34168dcb8ee8de22898c0a0346d861a162b753cb569177d845f",
-    "size": 37344731,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.6.1-Setup.exe",
+    "sha256": "870595dbb2cfcde338ab0a24fa661ad48c15e2d6f549ed2329a31ba9226dc4b6",
+    "size": 37341257,
     "date": "2026-10-04",
-    "notes": "1.6.0 BETA — párování líce a rubu více známek podle detailů čtyř hran, otočení a zrcadlení, s jedinečným přiřazením a odmítnutím nejistých vazeb. Před ověřením lze zkontrolovat označené líce L1/L2 a ruby R1/R2, ručně přiřadit dvojice, opravit výřezy a potvrdit i nepřiřazené ruby. Každá analýza, historie, export a archivovaná položka zachovávají právě odpovídající rub a původ vazby. Nahraný nepřiřazený rub zůstává společným podkladem, ne falešným individuálním důkazem lepu. Automatická přesnost není kalibrovaná; podobné ruby mohou zůstat nepřiřazené. Ruční potvrzení není potvrzení identity, stavu, ceny nebo pravosti. NENÍ oficiální expertíza. Kalibrace pravosti neproběhla; validační sada této změny: ground truth = 0 (syntetické testy pipeline)."
+    "notes": "1.6.1 BETA — v sekci Tvoje master prompty lze jednotlivě zapnout a vypnout identifikaci, posouzení stavu a pravosti, tržní ocenění a obchodní rozbor. Přepínače jsou synchronizované s výběrem kontrol, odhadem ceny a uloženým ověřením. Vypnuté prompty se nespustí. Ocenění celé sbírky a kontrola aukčního losu jsou zde nedostupné s vysvětlením. NENÍ oficiální expertíza. Kalibrace odborné přesnosti neproběhla; validační sada této změny: ground truth = 0 (syntetické testy pipeline)."
   },
   "tenispark": {
     "version": "0.2.8",
