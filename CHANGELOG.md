@@ -29,6 +29,12 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.6.0 (beta)
+- Vizuální kontrola a ruční přiřazení líců a rubů před ověřením více známek.
+- Úprava výřezů a zachování potvrzené vazby v analýzách, historii, exportech a sbírce.
+- Automatické návrhy podle detailů čtyř hran, otočení a zrcadlení; nejisté ruby zůstávají nepřiřazené.
+- Automatická přesnost není kalibrovaná; potvrzení uživatelem není potvrzením identity, lepu nebo pravosti. NENÍ oficiální expertíza.
+
 ### 1.5.0 (beta)
 - Automatické archivování každé analyzované známky, fotografií, výsledků a webových odkazů.
 - Ochrana proti duplicitám a obnovení smazaných položek při opakování ověření.
