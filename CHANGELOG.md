@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.7.1 (beta)
+- 1.7.1 BETA — při výběru nové známky se ihned odstraní předchozí výsledek, párování, starý rub a údaje předchozí známky. Selhání nahrávání neobnoví starou zprávu. Historie a sbírka zůstávají zachované; výběr kontrol se zachovává. Během ověřování jsou vstupy skenů zamčené. NENÍ oficiální expertíza.
+
 ### 1.7.0 (beta)
 - Samostatné ceny známek a nezávislé ocenění série/aršíku podle prodejů celku; bez dvojího započtení ve sbírce.
 - Kontrola opakovaných instrukcí před ověřením a doporučení dostupného modelu AI.

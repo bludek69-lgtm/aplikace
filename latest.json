@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.7.0",
+    "version": "1.7.1",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.7.0-Setup.exe",
-    "sha256": "86361d08f28b1dfff49d0ea142501b67a833af65af0eeaef0538a486714e7bf0",
-    "size": 37382232,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.7.1-Setup.exe",
+    "sha256": "4f59cf8450ca629f197a858c3ee0f48e43f6d13b1a9e1c0eeff64d4c2ceffc68",
+    "size": 37378789,
     "date": "2026-10-07",
-    "notes": "1.7.0 BETA — samostatné ceny jednotlivých známek a nezávislá cena série/aršíku; kontrola shodných instrukcí před spuštěním, doporučení dostupného AI modelu, oprava hlášení 600 DPI, stručný i podrobný výstup včetně PDF/DOCX. Kontrola zmínek o certifikátech rozlišuje nepotvrzené údaje a nedostupné registry APS/APEX a PF; pravost konkrétního kusu tím není potvrzena. NENÍ oficiální expertíza; odborná přesnost nebyla nově kalibrována, testovací ground truth = 0."
+    "notes": "1.7.1 BETA — při výběru nové známky se ihned odstraní předchozí výsledek, párování, starý rub a údaje předchozí známky. Selhání nahrávání neobnoví starou zprávu. Historie a sbírka zůstávají zachované; výběr kontrol se zachovává. Během ověřování jsou vstupy skenů zamčené. NENÍ oficiální expertíza."
   },
   "tenispark": {
     "version": "0.2.8",
