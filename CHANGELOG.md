@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.7.2 (beta)
+- 1.7.2 BETA — oprava ověření série při nedostupném AI modelu: chyba HTTP 404 se neopakuje a zastaví dávku, nezaměňuje se za špatný výřez či vypnuté kontroly. Podpora aktuálního Gemini 3.5 Flash-Lite s doloženým ceníkem a příprava opakování jedním tlačítkem. Čitelná zpráva série bez technického JSON, zachované analýzy a odkazy; stručný výstup s hlavní příčinou selhání. NENÍ oficiální expertíza.
+
 ### 1.7.1 (beta)
 - 1.7.1 BETA — při výběru nové známky se ihned odstraní předchozí výsledek, párování, starý rub a údaje předchozí známky. Selhání nahrávání neobnoví starou zprávu. Historie a sbírka zůstávají zachované; výběr kontrol se zachovává. Během ověřování jsou vstupy skenů zamčené. NENÍ oficiální expertíza.
 

@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.7.1",
+    "version": "1.7.2",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.7.1-Setup.exe",
-    "sha256": "4f59cf8450ca629f197a858c3ee0f48e43f6d13b1a9e1c0eeff64d4c2ceffc68",
-    "size": 37378789,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.7.2-Setup.exe",
+    "sha256": "442e461b84de3d38b2ea5f302c139cda723a6d73a787236a4b3fcb79b5c4ef72",
+    "size": 37387393,
     "date": "2026-10-07",
-    "notes": "1.7.1 BETA — při výběru nové známky se ihned odstraní předchozí výsledek, párování, starý rub a údaje předchozí známky. Selhání nahrávání neobnoví starou zprávu. Historie a sbírka zůstávají zachované; výběr kontrol se zachovává. Během ověřování jsou vstupy skenů zamčené. NENÍ oficiální expertíza."
+    "notes": "1.7.2 BETA — oprava ověření série při nedostupném AI modelu: chyba HTTP 404 se neopakuje a zastaví dávku, nezaměňuje se za špatný výřez či vypnuté kontroly. Podpora aktuálního Gemini 3.5 Flash-Lite s doloženým ceníkem a příprava opakování jedním tlačítkem. Čitelná zpráva série bez technického JSON, zachované analýzy a odkazy; stručný výstup s hlavní příčinou selhání. NENÍ oficiální expertíza."
   },
   "tenispark": {
     "version": "0.2.8",
