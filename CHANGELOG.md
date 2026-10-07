@@ -29,6 +29,12 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.7.0 (beta)
+- Samostatné ceny známek a nezávislé ocenění série/aršíku podle prodejů celku; bez dvojího započtení ve sbírce.
+- Kontrola opakovaných instrukcí před ověřením a doporučení dostupného modelu AI.
+- Opravené hlášení 600 DPI; stručný i podrobný výstup včetně PDF/DOCX.
+- Nepotvrzené zmínky o certifikátech a jasné stavy nedostupných registrů. NENÍ oficiální expertíza.
+
 ### 1.6.1 (beta)
 - Funkční přepínače čtyř dostupných master promptů přímo u názvu.
 - Výběr společný s kontrolami, cenovým odhadem a uloženým ověřením; vypnuté prompty se přeskočí.
