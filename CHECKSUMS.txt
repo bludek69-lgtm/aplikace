@@ -116,3 +116,4 @@ e574be1ca0f61a48132a114fda4067042b83e607eddfcd46dde0164325ce6663  Collection-v1.
 4f59cf8450ca629f197a858c3ee0f48e43f6d13b1a9e1c0eeff64d4c2ceffc68  Collection-v1.7.1-Setup.exe
 442e461b84de3d38b2ea5f302c139cda723a6d73a787236a4b3fcb79b5c4ef72  Collection-v1.7.2-Setup.exe
 21dd80ad618fe694baf695a5ea4463fe1f64639ed5259e664c8891b16422ceff  Collection-v1.7.3-Setup.exe
+047d2c8a708c6cea1341fee16ae682fa9da645f300776492f08beca62e64af96  Collection-v1.7.4-Setup.exe

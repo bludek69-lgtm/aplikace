@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.7.4 (beta)
+- 1.7.4 BETA — oprava přenosu velkých skenů do AI: velké obrázky se nahrávají přes Files API bez zmenšení nebo změny pixelů a během ověření se znovu používají. Zachované lokální kontroly, DPI i originály. Čitelné příčiny selhání přenosu a žádné tvrzení o výsledcích známek, které nebyly identifikovány. NENÍ oficiální expertíza; kalibrace pravosti neproběhla (GENUINE ground truth = 0). Živý placený AI běh této změny nebyl proveden.
+
 ### 1.7.3 (beta)
 - 1.7.3 BETA — oprava dělení světlých známek na bílém pozadí: části kresby již nejsou další líce. Celý papír líce i rubu včetně bílé nálepky zůstává jedním výřezem. Staré nepotvrzené automatické náhledy se přepočítají; ruční opravy a potvrzené páry se zachovají. Nejasné a oříznuté okraje nejsou falešně vydávány za úplné rozdělení. NENÍ oficiální expertíza; kalibrace pravosti neproběhla (GENUINE ground truth = 0).
 
