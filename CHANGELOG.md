@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.7.3 (beta)
+- 1.7.3 BETA — oprava dělení světlých známek na bílém pozadí: části kresby již nejsou další líce. Celý papír líce i rubu včetně bílé nálepky zůstává jedním výřezem. Staré nepotvrzené automatické náhledy se přepočítají; ruční opravy a potvrzené páry se zachovají. Nejasné a oříznuté okraje nejsou falešně vydávány za úplné rozdělení. NENÍ oficiální expertíza; kalibrace pravosti neproběhla (GENUINE ground truth = 0).
+
 ### 1.7.2 (beta)
 - 1.7.2 BETA — oprava ověření série při nedostupném AI modelu: chyba HTTP 404 se neopakuje a zastaví dávku, nezaměňuje se za špatný výřez či vypnuté kontroly. Podpora aktuálního Gemini 3.5 Flash-Lite s doloženým ceníkem a příprava opakování jedním tlačítkem. Čitelná zpráva série bez technického JSON, zachované analýzy a odkazy; stručný výstup s hlavní příčinou selhání. NENÍ oficiální expertíza.
 
