@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.7.4",
+    "version": "1.8.0",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.7.4-Setup.exe",
-    "sha256": "047d2c8a708c6cea1341fee16ae682fa9da645f300776492f08beca62e64af96",
-    "size": 37392738,
-    "date": "2026-10-09",
-    "notes": "1.7.4 BETA — oprava přenosu velkých skenů do AI: velké obrázky se nahrávají přes Files API bez zmenšení nebo změny pixelů a během ověření se znovu používají. Zachované lokální kontroly, DPI i originály. Čitelné příčiny selhání přenosu a žádné tvrzení o výsledcích známek, které nebyly identifikovány. NENÍ oficiální expertíza; kalibrace pravosti neproběhla (GENUINE ground truth = 0). Živý placený AI běh této změny nebyl proveden."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.8.0-Setup.exe",
+    "sha256": "cac09d141819775c87b8e03e5090415ad2611bb2d220df4f1f1f5e1ae4ef5907",
+    "size": 37404313,
+    "date": "2026-10-10",
+    "notes": "1.8.0 BETA — Zdraví systému, systémová diagnostika a lokální ZIP export bez fotografií, promptů, klíčů a sbírkových dat. Oprava přenosu velkých skenů přes Files API: bloky 1 MiB, obnovení podle potvrzeného offsetu, postup a zrušení mezi bloky bez změny pixelů. NENÍ oficiální expertíza; kalibrace pravosti neproběhla (GENUINE ground truth = 0). Živý placený AI test této změny nebyl proveden."
   },
   "tenispark": {
     "version": "0.2.8",

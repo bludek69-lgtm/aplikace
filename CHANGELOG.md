@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.8.0 (beta)
+- 1.8.0 BETA — Zdraví systému, systémová diagnostika a lokální ZIP export bez fotografií, promptů, klíčů a sbírkových dat. Oprava přenosu velkých skenů přes Files API: bloky 1 MiB, obnovení podle potvrzeného offsetu, postup a zrušení mezi bloky bez změny pixelů. NENÍ oficiální expertíza; kalibrace pravosti neproběhla (GENUINE ground truth = 0). Živý placený AI test této změny nebyl proveden.
+
 ### 1.7.4 (beta)
 - 1.7.4 BETA — oprava přenosu velkých skenů do AI: velké obrázky se nahrávají přes Files API bez zmenšení nebo změny pixelů a během ověření se znovu používají. Zachované lokální kontroly, DPI i originály. Čitelné příčiny selhání přenosu a žádné tvrzení o výsledcích známek, které nebyly identifikovány. NENÍ oficiální expertíza; kalibrace pravosti neproběhla (GENUINE ground truth = 0). Živý placený AI běh této změny nebyl proveden.
 
