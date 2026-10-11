@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.8.2",
+    "version": "1.8.3",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.8.2-Setup.exe",
-    "sha256": "be32a39ed14fe317f15f1fec8eed7742ce30597a0244dea631e0ccafa196ce50",
-    "size": 37407210,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.8.3-Setup.exe",
+    "sha256": "6d453c7e25ee3c39b22d9f438b7db6780859be73302de73d3e0cee3ca30d1ac6",
+    "size": 37413873,
     "date": "2026-10-11",
-    "notes": "1.8.2 BETA — Oprava rozdělení série na tmavém podkladu s bílými okraji skeneru. Před spuštěním série je povinná kontrola a potvrzení výřezů. Neplatná či neúplná odpověď identifikace zastaví navazující analýzy; zpráva, PDF a diagnostika ukazují jednu společnou příčinu. Výřezy zachovávají původní pixely a DPI. NENÍ oficiální expertíza; kalibrace odborné přesnosti neproběhla (validační ground truth = 0)."
+    "notes": "1.8.3 BETA — Odhad ceny celé dávky včetně úvodního rozpoznání skenu, přehlednější postup přenosu a AI analýz s uplynulým časem. Rychlejší otevření uložených výsledků, pravdivější stručný souhrn, správný čas dokončení a čitelnější PDF/DOCX. Opravy vycházejí z uživatelského testu devíti známek. NENÍ oficiální expertíza; odborná přesnost není kalibrovaná."
   },
   "tenispark": {
     "version": "0.2.8",

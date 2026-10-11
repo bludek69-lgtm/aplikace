@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.8.3 (beta)
+- 1.8.3 BETA — Odhad ceny celé dávky včetně úvodního rozpoznání skenu, přehlednější postup přenosu a AI analýz s uplynulým časem. Rychlejší otevření uložených výsledků, pravdivější stručný souhrn, správný čas dokončení a čitelnější PDF/DOCX. Opravy vycházejí z uživatelského testu devíti známek. NENÍ oficiální expertíza; odborná přesnost není kalibrovaná.
+
 ### 1.8.2 (beta)
 - 1.8.2 BETA — Oprava rozdělení série na tmavém podkladu s bílými okraji skeneru. Před spuštěním série je povinná kontrola a potvrzení výřezů. Neplatná či neúplná odpověď identifikace zastaví navazující analýzy; zpráva, PDF a diagnostika ukazují jednu společnou příčinu. Výřezy zachovávají původní pixely a DPI. NENÍ oficiální expertíza; kalibrace odborné přesnosti neproběhla (validační ground truth = 0).
 
