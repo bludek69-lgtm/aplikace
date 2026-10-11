@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.9.0 (beta)
+- 1.9.0 BETA — Podmíněná cenová rozpětí nákupu a prodeje podle stavu, varianty, lepu, jednotky a měny. Nabídky a realizované prodeje jsou oddělené; odhady mají předpoklady a konkrétní zdroje. Výsledky jsou v aplikaci i PDF/DOCX. Citace AI není nezávislé ověření stránky. NENÍ oficiální expertíza; živý placený AI test této změny nebyl proveden.
+
 ### 1.8.3 (beta)
 - 1.8.3 BETA — Odhad ceny celé dávky včetně úvodního rozpoznání skenu, přehlednější postup přenosu a AI analýz s uplynulým časem. Rychlejší otevření uložených výsledků, pravdivější stručný souhrn, správný čas dokončení a čitelnější PDF/DOCX. Opravy vycházejí z uživatelského testu devíti známek. NENÍ oficiální expertíza; odborná přesnost není kalibrovaná.
 
