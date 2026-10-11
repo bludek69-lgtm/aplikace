@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.8.1 (beta)
+- 1.8.1 BETA — Oprava ukládání diagnostických ZIP balíčků v desktopu: povoleno stahování ve WebView2, standardní dialog Uložit jako. Export z obou systémových stránek ověřen ve skutečném desktopovém WebView2; zrušení dialogu nevytvoří soubor. Diagnostický balíček zůstává bez fotografií, promptů, klíčů a sbírkových dat. Nejde o změnu AI analýzy ani oficiální expertízu.
+
 ### 1.8.0 (beta)
 - 1.8.0 BETA — Zdraví systému, systémová diagnostika a lokální ZIP export bez fotografií, promptů, klíčů a sbírkových dat. Oprava přenosu velkých skenů přes Files API: bloky 1 MiB, obnovení podle potvrzeného offsetu, postup a zrušení mezi bloky bez změny pixelů. NENÍ oficiální expertíza; kalibrace pravosti neproběhla (GENUINE ground truth = 0). Živý placený AI test této změny nebyl proveden.
 
