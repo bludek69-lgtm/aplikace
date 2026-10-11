@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.8.2 (beta)
+- 1.8.2 BETA — Oprava rozdělení série na tmavém podkladu s bílými okraji skeneru. Před spuštěním série je povinná kontrola a potvrzení výřezů. Neplatná či neúplná odpověď identifikace zastaví navazující analýzy; zpráva, PDF a diagnostika ukazují jednu společnou příčinu. Výřezy zachovávají původní pixely a DPI. NENÍ oficiální expertíza; kalibrace odborné přesnosti neproběhla (validační ground truth = 0).
+
 ### 1.8.1 (beta)
 - 1.8.1 BETA — Oprava ukládání diagnostických ZIP balíčků v desktopu: povoleno stahování ve WebView2, standardní dialog Uložit jako. Export z obou systémových stránek ověřen ve skutečném desktopovém WebView2; zrušení dialogu nevytvoří soubor. Diagnostický balíček zůstává bez fotografií, promptů, klíčů a sbírkových dat. Nejde o změnu AI analýzy ani oficiální expertízu.
 

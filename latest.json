@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.8.1",
+    "version": "1.8.2",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.8.1-Setup.exe",
-    "sha256": "e16aae12003cdec080ac7de51140bf78f43ebae0d37e405565280ac43d9f4145",
-    "size": 37399718,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.8.2-Setup.exe",
+    "sha256": "be32a39ed14fe317f15f1fec8eed7742ce30597a0244dea631e0ccafa196ce50",
+    "size": 37407210,
     "date": "2026-10-11",
-    "notes": "1.8.1 BETA — Oprava ukládání diagnostických ZIP balíčků v desktopu: povoleno stahování ve WebView2, standardní dialog Uložit jako. Export z obou systémových stránek ověřen ve skutečném desktopovém WebView2; zrušení dialogu nevytvoří soubor. Diagnostický balíček zůstává bez fotografií, promptů, klíčů a sbírkových dat. Nejde o změnu AI analýzy ani oficiální expertízu."
+    "notes": "1.8.2 BETA — Oprava rozdělení série na tmavém podkladu s bílými okraji skeneru. Před spuštěním série je povinná kontrola a potvrzení výřezů. Neplatná či neúplná odpověď identifikace zastaví navazující analýzy; zpráva, PDF a diagnostika ukazují jednu společnou příčinu. Výřezy zachovávají původní pixely a DPI. NENÍ oficiální expertíza; kalibrace odborné přesnosti neproběhla (validační ground truth = 0)."
   },
   "tenispark": {
     "version": "0.2.8",
