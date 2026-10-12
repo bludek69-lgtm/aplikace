@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.9.1",
+    "version": "1.10.0",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.9.1-Setup.exe",
-    "sha256": "f813d7af84347b905484737b02cea1cdfeb5b40af572940361600af04ffaaa62",
-    "size": 36868662,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.10.0-Setup.exe",
+    "sha256": "44eff975b3347ddc9c927e93049f3cf000f7290195dacbb688b172da1b864df9",
+    "size": 37461589,
     "date": "2026-10-12",
-    "notes": "1.9.1 BETA — Dosažený strop útraty za AI se hlásí jako strop, ne jako technická chyba. Dříve ověření při vyčerpaném aplikačním USD stropu psalo „AI identifikace technicky selhala — zkontroluj připojení AI“, ačkoli se žádné volání neodeslalo a nic se nezaplatilo; arch se zastavil uprostřed a opakování okamžitě selhávala. Nově hláška řekne, že byl dosažen strop, dávka se zastaví a rada vede do Klíče & API. USD strop jde nově nastavit, změnit i zrušit přímo v aplikaci (Klíče & API → Strop útraty za placená volání, s potvrzením); dřív jen z kódu. NENÍ oficiální expertíza; kalibrace pravosti neproběhla; živý placený AI test této změny nebyl proveden."
+    "notes": "1.10.0 beta — Rozšířené cenové podklady: nabídky Danner a Schultze, realizace Philea, cílené hledání Michel v Burda a oficiální eBay Browse při dostupném přístupu. Ceny podle stavu, přímé odkazy a popisy; jednotliviny, série a aršíky odděleně. Není potvrzením pravosti ani přesným oceněním fotografie. Placený živý AI test nebyl proveden."
   },
   "tenispark": {
     "version": "0.2.8",

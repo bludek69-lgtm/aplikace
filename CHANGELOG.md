@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.10.0 (beta)
+- 1.10.0 beta — Rozšířené cenové podklady: nabídky Danner a Schultze, realizace Philea, cílené hledání Michel v Burda a oficiální eBay Browse při dostupném přístupu. Ceny podle stavu, přímé odkazy a popisy; jednotliviny, série a aršíky odděleně. Není potvrzením pravosti ani přesným oceněním fotografie. Placený živý AI test nebyl proveden.
+
 ### 1.9.1 (beta)
 - 1.9.1 BETA — Dosažený strop útraty za AI se hlásí jako strop, ne jako technická chyba. Dříve ověření při vyčerpaném aplikačním USD stropu psalo „AI identifikace technicky selhala — zkontroluj připojení AI“, ačkoli se žádné volání neodeslalo a nic se nezaplatilo; arch se zastavil uprostřed a opakování okamžitě selhávala. Nově hláška řekne, že byl dosažen strop, dávka se zastaví a rada vede do Klíče & API. USD strop jde nově nastavit, změnit i zrušit přímo v aplikaci (Klíče & API → Strop útraty za placená volání, s potvrzením); dřív jen z kódu. NENÍ oficiální expertíza; kalibrace pravosti neproběhla; živý placený AI test této změny nebyl proveden.
 
