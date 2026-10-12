@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.9.1 (beta)
+- 1.9.1 BETA — Dosažený strop útraty za AI se hlásí jako strop, ne jako technická chyba. Dříve ověření při vyčerpaném aplikačním USD stropu psalo „AI identifikace technicky selhala — zkontroluj připojení AI“, ačkoli se žádné volání neodeslalo a nic se nezaplatilo; arch se zastavil uprostřed a opakování okamžitě selhávala. Nově hláška řekne, že byl dosažen strop, dávka se zastaví a rada vede do Klíče & API. USD strop jde nově nastavit, změnit i zrušit přímo v aplikaci (Klíče & API → Strop útraty za placená volání, s potvrzením); dřív jen z kódu. NENÍ oficiální expertíza; kalibrace pravosti neproběhla; živý placený AI test této změny nebyl proveden.
+
 ### 1.9.0 (beta)
 - 1.9.0 BETA — Podmíněná cenová rozpětí nákupu a prodeje podle stavu, varianty, lepu, jednotky a měny. Nabídky a realizované prodeje jsou oddělené; odhady mají předpoklady a konkrétní zdroje. Výsledky jsou v aplikaci i PDF/DOCX. Citace AI není nezávislé ověření stránky. NENÍ oficiální expertíza; živý placený AI test této změny nebyl proveden.
 
