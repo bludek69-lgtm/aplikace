@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.10.3 (beta)
+- 1.10.3 BETA — Oprava zacyklených odpovědí AI. Když model (hlavně Gemini 2.5 Flash) začne psát dokola totéž (řady nul, stále stejný řádek tabulky), aplikace opakování zkrátí a označí „[… odpověď se zacyklila, zkráceno …]“ — zpráva PDF/DOCX už nemá desítky stran nesmyslů, a to ani u dříve uložených ověření. Zacyklený a useknutý rozbor se jednou automaticky zopakuje (stejné brány rozpočtu a USD stropu; u 2.5 Flash nejvýše asi 0,10–0,12 USD navíc za rozbor) a použije se lepší odpověď. Cenový řádek, jehož popis odporuje katalogovému číslu nebo stavu (např. jiná série, ** proti razítkované), nebo jehož odkaz vede na výsledky hledání místo konkrétní položky, se do podmíněných cen nezapočítá. U archu je u každé ceny vidět, ke které známce patří (L3: …). NENÍ oficiální expertíza; kalibrace pravosti neproběhla; živý placený AI test této změny nebyl proveden.
+
 ### 1.10.2 (beta)
 - 1.10.2 BETA — Zoubkoměr a přehlednější zpráva. Aplikace měří hodnotu zoubkování přímo ze skenu: najde každou dírku, z rozteče spočítá zuby na 2 cm a ukáže náhled změřených dírek. Bez kalibrace přibližně (±2 %, zápis na půlky, např. „≈ 14“, kombinované „≈ 13½ × 13“); po naskenování pravítka (Zoubkoměr — kalibrace pravítkem) ±0,05 a zápis na čtvrtky. Zpráva PDF/DOCX má klikací odkazy na zdroje, snímky známky (líc a rub) s popisem stavu u každé známky a u archu sekci Sada. U promptů a kontrol v kroku 3 je ikona ⓘ s vysvětlením, co dělají. Měření ze skenu není odborné potvrzení varianty; NENÍ oficiální expertíza; kalibrace pravosti neproběhla; živý placený AI test této změny nebyl proveden.
 

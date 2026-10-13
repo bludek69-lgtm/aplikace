@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.10.2",
+    "version": "1.10.3",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.10.2-Setup.exe",
-    "sha256": "0b9dfe73868b74c25f279f8ac7f6fafe7fe78c1e1d95f4b25759d526774f1949",
-    "size": 36934833,
-    "date": "2026-10-13",
-    "notes": "1.10.2 BETA — Zoubkoměr a přehlednější zpráva. Aplikace měří hodnotu zoubkování přímo ze skenu: najde každou dírku, z rozteče spočítá zuby na 2 cm a ukáže náhled změřených dírek. Bez kalibrace přibližně (±2 %, zápis na půlky, např. „≈ 14“, kombinované „≈ 13½ × 13“); po naskenování pravítka (Zoubkoměr — kalibrace pravítkem) ±0,05 a zápis na čtvrtky. Zpráva PDF/DOCX má klikací odkazy na zdroje, snímky známky (líc a rub) s popisem stavu u každé známky a u archu sekci Sada. U promptů a kontrol v kroku 3 je ikona ⓘ s vysvětlením, co dělají. Měření ze skenu není odborné potvrzení varianty; NENÍ oficiální expertíza; kalibrace pravosti neproběhla; živý placený AI test této změny nebyl proveden."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.10.3-Setup.exe",
+    "sha256": "c7a52378e6428bb6abd8cb83027b5d2d4b135859f86ddc9b97942d663cde2670",
+    "size": 36946786,
+    "date": "2026-10-14",
+    "notes": "1.10.3 BETA — Oprava zacyklených odpovědí AI. Když model (hlavně Gemini 2.5 Flash) začne psát dokola totéž (řady nul, stále stejný řádek tabulky), aplikace opakování zkrátí a označí „[… odpověď se zacyklila, zkráceno …]“ — zpráva PDF/DOCX už nemá desítky stran nesmyslů, a to ani u dříve uložených ověření. Zacyklený a useknutý rozbor se jednou automaticky zopakuje (stejné brány rozpočtu a USD stropu; u 2.5 Flash nejvýše asi 0,10–0,12 USD navíc za rozbor) a použije se lepší odpověď. Cenový řádek, jehož popis odporuje katalogovému číslu nebo stavu (např. jiná série, ** proti razítkované), nebo jehož odkaz vede na výsledky hledání místo konkrétní položky, se do podmíněných cen nezapočítá. U archu je u každé ceny vidět, ke které známce patří (L3: …). NENÍ oficiální expertíza; kalibrace pravosti neproběhla; živý placený AI test této změny nebyl proveden."
   },
   "tenispark": {
     "version": "0.2.8",
