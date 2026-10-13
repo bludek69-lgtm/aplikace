@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.10.2 (beta)
+- 1.10.2 BETA — Zoubkoměr a přehlednější zpráva. Aplikace měří hodnotu zoubkování přímo ze skenu: najde každou dírku, z rozteče spočítá zuby na 2 cm a ukáže náhled změřených dírek. Bez kalibrace přibližně (±2 %, zápis na půlky, např. „≈ 14“, kombinované „≈ 13½ × 13“); po naskenování pravítka (Zoubkoměr — kalibrace pravítkem) ±0,05 a zápis na čtvrtky. Zpráva PDF/DOCX má klikací odkazy na zdroje, snímky známky (líc a rub) s popisem stavu u každé známky a u archu sekci Sada. U promptů a kontrol v kroku 3 je ikona ⓘ s vysvětlením, co dělají. Měření ze skenu není odborné potvrzení varianty; NENÍ oficiální expertíza; kalibrace pravosti neproběhla; živý placený AI test této změny nebyl proveden.
+
 ### 1.10.1 (beta)
 - 1.10.1 beta — Oprava ověřování potvrzené série: jednotlivé známky se identifikují přímo bez nadbytečného společného AI dotazu. Neplatná strukturovaná odpověď má nejvýše jedno opakování v povoleném rozpočtu; chyba jedné známky nezastaví ostatní. Když nedoběhne žádná známka série kvůli chybě spojení s AI, souhrn ukáže jednu společnou příčinu. Přesnější diagnostika a čitelnější výpis uložení. Živý placený AI test nebyl proveden. NENÍ oficiální expertíza; GENUINE ground truth = 0.
 
