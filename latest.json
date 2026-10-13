@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.10.0",
+    "version": "1.10.1",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.10.0-Setup.exe",
-    "sha256": "44eff975b3347ddc9c927e93049f3cf000f7290195dacbb688b172da1b864df9",
-    "size": 37461589,
-    "date": "2026-10-12",
-    "notes": "1.10.0 beta — Rozšířené cenové podklady: nabídky Danner a Schultze, realizace Philea, cílené hledání Michel v Burda a oficiální eBay Browse při dostupném přístupu. Ceny podle stavu, přímé odkazy a popisy; jednotliviny, série a aršíky odděleně. Není potvrzením pravosti ani přesným oceněním fotografie. Placený živý AI test nebyl proveden."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.10.1-Setup.exe",
+    "sha256": "350079bb03cafe5ff0a5f526f4895ad4041f1847b0928fffc2b211bb9bde97a7",
+    "size": 36901779,
+    "date": "2026-10-13",
+    "notes": "1.10.1 beta — Oprava ověřování potvrzené série: jednotlivé známky se identifikují přímo bez nadbytečného společného AI dotazu. Neplatná strukturovaná odpověď má nejvýše jedno opakování v povoleném rozpočtu; chyba jedné známky nezastaví ostatní. Když nedoběhne žádná známka série kvůli chybě spojení s AI, souhrn ukáže jednu společnou příčinu. Přesnější diagnostika a čitelnější výpis uložení. Živý placený AI test nebyl proveden. NENÍ oficiální expertíza; GENUINE ground truth = 0."
   },
   "tenispark": {
     "version": "0.2.8",

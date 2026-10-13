@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.10.1 (beta)
+- 1.10.1 beta — Oprava ověřování potvrzené série: jednotlivé známky se identifikují přímo bez nadbytečného společného AI dotazu. Neplatná strukturovaná odpověď má nejvýše jedno opakování v povoleném rozpočtu; chyba jedné známky nezastaví ostatní. Když nedoběhne žádná známka série kvůli chybě spojení s AI, souhrn ukáže jednu společnou příčinu. Přesnější diagnostika a čitelnější výpis uložení. Živý placený AI test nebyl proveden. NENÍ oficiální expertíza; GENUINE ground truth = 0.
+
 ### 1.10.0 (beta)
 - 1.10.0 beta — Rozšířené cenové podklady: nabídky Danner a Schultze, realizace Philea, cílené hledání Michel v Burda a oficiální eBay Browse při dostupném přístupu. Ceny podle stavu, přímé odkazy a popisy; jednotliviny, série a aršíky odděleně. Není potvrzením pravosti ani přesným oceněním fotografie. Placený živý AI test nebyl proveden.
 
