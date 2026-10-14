@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.10.5 (beta)
+- 1.10.5 BETA — Lepší diagnostický balíček. U každého ověření je nově vidět použitý model AI, režim (placený / simulace) a odpověď služby — např. HTTP 404 znamená, že model není pro tento účet dostupný (nový klíč Google: vyber model řady 3); kontrola „Poslední ověření“ rovnou poradí, co dělat. U série je souhrn známek (dokončeno / selhalo / nespuštěno). Doba běhu aplikace se měří správně (dřív to byl čas od otevření stránky Diagnostika), balíček nese pseudonymní otisk instalace (rozliší dva počítače bez jména PC a cest) a nastavené modely. Export po kliknutí potvrdí uložení, druhé kliknutí do 10 s ignoruje a soubor má v názvu datum a čas. Soukromí beze změny: žádné známky, ceny, fotky, prompty, klíče, jména ani cesty. NENÍ oficiální expertíza; kalibrace pravosti neproběhla.
+
 ### 1.10.4 (beta)
 - 1.10.4 BETA — Novější modely Gemini. Google pouští nové účty (nový API klíč) jen k modelům řady 3; u řady 2.5 vrací chybu 404 „no longer available to new users“. Ve výběru modelu u placeného posudku, Jednoduchého ověření i na stránce Klíče & API jsou nově Gemini 3.8 Flash (nejnovější Flash, doporučený pro nové účty), Gemini 3.6 Flash a Gemini 3.1 Flash-Lite (nejlevnější z řady 3); na Klíče & API přibyl i 3.5 Flash-Lite. Ceny podle ceníku Google k 2026-10-13: 3.8 a 3.6 Flash 0,75 / 3,75 USD za 1 mil. tokenů do 31. 12. 2026, od 1. 1. 2027 1,50 / 7,50 — aplikace přepne cenu sama podle data; 3.1 Flash-Lite 0,25 / 1,50. Výchozí model se nemění (2.5 Pro). NENÍ oficiální expertíza; kalibrace pravosti neproběhla; živé volání nových modelů nebylo provedeno (ověřen jen 3.5 Flash-Lite).
 
