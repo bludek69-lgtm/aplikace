@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.10.4 (beta)
+- 1.10.4 BETA — Novější modely Gemini. Google pouští nové účty (nový API klíč) jen k modelům řady 3; u řady 2.5 vrací chybu 404 „no longer available to new users“. Ve výběru modelu u placeného posudku, Jednoduchého ověření i na stránce Klíče & API jsou nově Gemini 3.8 Flash (nejnovější Flash, doporučený pro nové účty), Gemini 3.6 Flash a Gemini 3.1 Flash-Lite (nejlevnější z řady 3); na Klíče & API přibyl i 3.5 Flash-Lite. Ceny podle ceníku Google k 2026-10-13: 3.8 a 3.6 Flash 0,75 / 3,75 USD za 1 mil. tokenů do 31. 12. 2026, od 1. 1. 2027 1,50 / 7,50 — aplikace přepne cenu sama podle data; 3.1 Flash-Lite 0,25 / 1,50. Výchozí model se nemění (2.5 Pro). NENÍ oficiální expertíza; kalibrace pravosti neproběhla; živé volání nových modelů nebylo provedeno (ověřen jen 3.5 Flash-Lite).
+
 ### 1.10.3 (beta)
 - 1.10.3 BETA — Oprava zacyklených odpovědí AI. Když model (hlavně Gemini 2.5 Flash) začne psát dokola totéž (řady nul, stále stejný řádek tabulky), aplikace opakování zkrátí a označí „[… odpověď se zacyklila, zkráceno …]“ — zpráva PDF/DOCX už nemá desítky stran nesmyslů, a to ani u dříve uložených ověření. Zacyklený a useknutý rozbor se jednou automaticky zopakuje (stejné brány rozpočtu a USD stropu; u 2.5 Flash nejvýše asi 0,10–0,12 USD navíc za rozbor) a použije se lepší odpověď. Cenový řádek, jehož popis odporuje katalogovému číslu nebo stavu (např. jiná série, ** proti razítkované), nebo jehož odkaz vede na výsledky hledání místo konkrétní položky, se do podmíněných cen nezapočítá. U archu je u každé ceny vidět, ke které známce patří (L3: …). NENÍ oficiální expertíza; kalibrace pravosti neproběhla; živý placený AI test této změny nebyl proveden.
 
