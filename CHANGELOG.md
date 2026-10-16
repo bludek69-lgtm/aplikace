@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.10.6 (beta)
+- 1.10.6 BETA — Opravy z prověrky všech modulů. Výchozím modelem AI je nově Gemini 3.8 Flash (posudek, Jednoduché ověření, cena a pravost) a 3.5 Flash-Lite (rychlé dotazy, chat) — fungují i s novým klíčem Google, kde řada 2.5 končí chybou 404; 2.5 Pro a 2.5 Flash zůstávají k výběru pro dříve aktivní účty. Stránka Klíče & API nabízí modely řady 3. Přehled bez ocenění už nehlásí „mix měn“; řazení katalogu funguje hned; bezpečný export a kontrola kvality dat nezahrnují položky z koše; převzetí z Prohlížeče zachová rok a zemi; ročník katalogových cen je předvyplněný; odmítnutý placený posudek ukáže srozumitelný text místo „[object Object]“; výsledek ukázkového (fake) poskytovatele je v aplikaci i v exportu označen DEMO; rozcestník Nápovědy otevře téma. NENÍ oficiální expertíza; kalibrace pravosti neproběhla; placené volání s výchozím 3.8 Flash nebylo provedeno.
+
 ### 1.10.5 (beta)
 - 1.10.5 BETA — Lepší diagnostický balíček. U každého ověření je nově vidět použitý model AI, režim (placený / simulace) a odpověď služby — např. HTTP 404 znamená, že model není pro tento účet dostupný (nový klíč Google: vyber model řady 3); kontrola „Poslední ověření“ rovnou poradí, co dělat. U série je souhrn známek (dokončeno / selhalo / nespuštěno). Doba běhu aplikace se měří správně (dřív to byl čas od otevření stránky Diagnostika), balíček nese pseudonymní otisk instalace (rozliší dva počítače bez jména PC a cest) a nastavené modely. Export po kliknutí potvrdí uložení, druhé kliknutí do 10 s ignoruje a soubor má v názvu datum a čas. Soukromí beze změny: žádné známky, ceny, fotky, prompty, klíče, jména ani cesty. NENÍ oficiální expertíza; kalibrace pravosti neproběhla.
 
