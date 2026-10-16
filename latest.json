@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.10.6",
+    "version": "1.10.7",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.10.6-Setup.exe",
-    "sha256": "b55ae0c78523e2502cdee1b9cbc540f85ba549e8905f7a510a7971a04d8495a5",
-    "size": 36957436,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.10.7-Setup.exe",
+    "sha256": "ebd58c9f7e488d646893fc77d913f1f2fef11666cf3fcd014e1646f84cb62bf6",
+    "size": 36961405,
     "date": "2026-10-16",
-    "notes": "1.10.6 BETA — Opravy z prověrky všech modulů. Výchozím modelem AI je nově Gemini 3.8 Flash (posudek, Jednoduché ověření, cena a pravost) a 3.5 Flash-Lite (rychlé dotazy, chat) — fungují i s novým klíčem Google, kde řada 2.5 končí chybou 404; 2.5 Pro a 2.5 Flash zůstávají k výběru pro dříve aktivní účty. Stránka Klíče & API nabízí modely řady 3. Přehled bez ocenění už nehlásí „mix měn“; řazení katalogu funguje hned; bezpečný export a kontrola kvality dat nezahrnují položky z koše; převzetí z Prohlížeče zachová rok a zemi; ročník katalogových cen je předvyplněný; odmítnutý placený posudek ukáže srozumitelný text místo „[object Object]“; výsledek ukázkového (fake) poskytovatele je v aplikaci i v exportu označen DEMO; rozcestník Nápovědy otevře téma. NENÍ oficiální expertíza; kalibrace pravosti neproběhla; placené volání s výchozím 3.8 Flash nebylo provedeno."
+    "notes": "1.10.7 BETA — Drobné opravy z prověrky modulů. Hledání ve sbírce funguje i bez háčků a čárek („papez“ najde „Papežský stát“); CSV export se v Excelu otevře se správnou češtinou; bezpečný export pro sdílení už neobsahuje volné poznámky (na vyžádání include_notes); historie změn zapisuje jen skutečné změny; stejný markant se nezaloží dvakrát; dekády „1860–1869“, „4 země“, dlaždice „Nízká jistota AI“ nepočítá ručně zadané položky; filtr zemí řazen česky; horní pruh ukazuje skutečnou adresu; chyba načtení katalogových cen se ukáže jako chyba; ceník Gemini k 2026-10-13; čas v historii ověření je místní; texty Expertizy s diakritikou a správnými tvary. NENÍ oficiální expertíza; kalibrace pravosti neproběhla."
   },
   "tenispark": {
     "version": "0.2.8",

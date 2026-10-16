@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.10.7 (beta)
+- 1.10.7 BETA — Drobné opravy z prověrky modulů. Hledání ve sbírce funguje i bez háčků a čárek („papez“ najde „Papežský stát“); CSV export se v Excelu otevře se správnou češtinou; bezpečný export pro sdílení už neobsahuje volné poznámky (na vyžádání include_notes); historie změn zapisuje jen skutečné změny; stejný markant se nezaloží dvakrát; dekády „1860–1869“, „4 země“, dlaždice „Nízká jistota AI“ nepočítá ručně zadané položky; filtr zemí řazen česky; horní pruh ukazuje skutečnou adresu; chyba načtení katalogových cen se ukáže jako chyba; ceník Gemini k 2026-10-13; čas v historii ověření je místní; texty Expertizy s diakritikou a správnými tvary. NENÍ oficiální expertíza; kalibrace pravosti neproběhla.
+
 ### 1.10.6 (beta)
 - 1.10.6 BETA — Opravy z prověrky všech modulů. Výchozím modelem AI je nově Gemini 3.8 Flash (posudek, Jednoduché ověření, cena a pravost) a 3.5 Flash-Lite (rychlé dotazy, chat) — fungují i s novým klíčem Google, kde řada 2.5 končí chybou 404; 2.5 Pro a 2.5 Flash zůstávají k výběru pro dříve aktivní účty. Stránka Klíče & API nabízí modely řady 3. Přehled bez ocenění už nehlásí „mix měn“; řazení katalogu funguje hned; bezpečný export a kontrola kvality dat nezahrnují položky z koše; převzetí z Prohlížeče zachová rok a zemi; ročník katalogových cen je předvyplněný; odmítnutý placený posudek ukáže srozumitelný text místo „[object Object]“; výsledek ukázkového (fake) poskytovatele je v aplikaci i v exportu označen DEMO; rozcestník Nápovědy otevře téma. NENÍ oficiální expertíza; kalibrace pravosti neproběhla; placené volání s výchozím 3.8 Flash nebylo provedeno.
 
