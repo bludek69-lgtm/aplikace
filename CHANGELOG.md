@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.12.0 (beta)
+- Webové cenové podklady jednotlivých známek i celých sérií s odkazy, bez vypočteného ocenění; upřesněná identifikace a posouzení vad a lepu. Rozšířená prodejní stránka s formulářem podmínek, návody k aktivaci prodeje na Delcampe a eBay a videi s českým hlasem Jakub.
+
 ### 1.11.1 (beta)
 - Video návod pro první nabídku na Delcampe: český komentář Windows Jakub, titulky, deset obrázkových kroků a přeskakování mezi kapitolami. Dostupný v Moje nabídky a Nápovědě, funguje offline. Ukázková data, ruční zveřejnění na portálu.
 
