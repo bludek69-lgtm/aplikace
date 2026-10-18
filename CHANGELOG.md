@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.12.1 (beta)
+- Ověření série, roku a katalogového čísla podle načteného zdroje a referenčních obrázků před hledáním cen. Nedoložená identita blokuje cenové závěry. Report obsahuje přímé odkazy na doloženou emisi a konkrétní nabídky.
+
 ### 1.12.0 (beta)
 - Webové cenové podklady jednotlivých známek i celých sérií s odkazy, bez vypočteného ocenění; upřesněná identifikace a posouzení vad a lepu. Rozšířená prodejní stránka s formulářem podmínek, návody k aktivaci prodeje na Delcampe a eBay a videi s českým hlasem Jakub.
 
