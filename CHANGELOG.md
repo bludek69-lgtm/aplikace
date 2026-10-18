@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.11.0 (beta)
+- 1.11.0 BETA — Průvodce soukromým prodejem známek pro Delcampe a eBay.de v pěti krocích: německé nabídky, fotografie, poštovné, upravitelné podmínky a evidence vystavení, prodeje a odeslání. Podmínky pro každý portál mají vlastní viditelný editor. Platby podle pravidel portálu, datovaný ceník dopravy s přepočtem EUR. Opraveno potvrzení dvojic líců a rubů: kresba uvnitř známek již nezpůsobuje falešné překrývání. Nabídky se zveřejňují ručně. Není oficiální expertíza; právní návrh není certifikací pro všechny země.
+
 ### 1.10.7 (beta)
 - 1.10.7 BETA — Drobné opravy z prověrky modulů. Hledání ve sbírce funguje i bez háčků a čárek („papez“ najde „Papežský stát“); CSV export se v Excelu otevře se správnou češtinou; bezpečný export pro sdílení už neobsahuje volné poznámky (na vyžádání include_notes); historie změn zapisuje jen skutečné změny; stejný markant se nezaloží dvakrát; dekády „1860–1869“, „4 země“, dlaždice „Nízká jistota AI“ nepočítá ručně zadané položky; filtr zemí řazen česky; horní pruh ukazuje skutečnou adresu; chyba načtení katalogových cen se ukáže jako chyba; ceník Gemini k 2026-10-13; čas v historii ověření je místní; texty Expertizy s diakritikou a správnými tvary. NENÍ oficiální expertíza; kalibrace pravosti neproběhla.
 
