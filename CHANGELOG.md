@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.11.1 (beta)
+- Video návod pro první nabídku na Delcampe: český komentář Windows Jakub, titulky, deset obrázkových kroků a přeskakování mezi kapitolami. Dostupný v Moje nabídky a Nápovědě, funguje offline. Ukázková data, ruční zveřejnění na portálu.
+
 ### 1.11.0 (beta)
 - 1.11.0 BETA — Průvodce soukromým prodejem známek pro Delcampe a eBay.de v pěti krocích: německé nabídky, fotografie, poštovné, upravitelné podmínky a evidence vystavení, prodeje a odeslání. Podmínky pro každý portál mají vlastní viditelný editor. Platby podle pravidel portálu, datovaný ceník dopravy s přepočtem EUR. Opraveno potvrzení dvojic líců a rubů: kresba uvnitř známek již nezpůsobuje falešné překrývání. Nabídky se zveřejňují ručně. Není oficiální expertíza; právní návrh není certifikací pro všechny země.
 

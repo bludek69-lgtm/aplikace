@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.11.0",
+    "version": "1.11.1",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.11.0-Setup.exe",
-    "sha256": "1db8f5b4a033ed82257b9400a62fa8fc5dba773e7f2061bebe383f588e7286a6",
-    "size": 37543156,
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.11.1-Setup.exe",
+    "sha256": "9157c04bfe7656a3971b746a8d0fca3802cc6050cc487405d85d2fcd0ef5399b",
+    "size": 42511482,
     "date": "2026-10-18",
-    "notes": "1.11.0 BETA — Průvodce soukromým prodejem známek pro Delcampe a eBay.de v pěti krocích: německé nabídky, fotografie, poštovné, upravitelné podmínky a evidence vystavení, prodeje a odeslání. Podmínky pro každý portál mají vlastní viditelný editor. Platby podle pravidel portálu, datovaný ceník dopravy s přepočtem EUR. Opraveno potvrzení dvojic líců a rubů: kresba uvnitř známek již nezpůsobuje falešné překrývání. Nabídky se zveřejňují ručně. Není oficiální expertíza; právní návrh není certifikací pro všechny země."
+    "notes": "Video návod pro první nabídku na Delcampe: český komentář Windows Jakub, titulky, deset obrázkových kroků a přeskakování mezi kapitolami. Dostupný v Moje nabídky a Nápovědě, funguje offline. Ukázková data, ruční zveřejnění na portálu."
   },
   "tenispark": {
     "version": "0.2.8",
