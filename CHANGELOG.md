@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.12.2 (beta)
+- Rozšířené dohledávání katalogových podkladů a kontrola barvy referenčních známek; sjednocení nejistých závěrů o lepu a čitelnější report. Vyčerpaný kredit Gemini má konkrétní hlášku. Placené ověření všech sérií nebylo dokončeno kvůli vyčerpanému kreditu; vydáno na výslovné přání uživatele bez tohoto ověření.
+
 ### 1.12.1 (beta)
 - Ověření série, roku a katalogového čísla podle načteného zdroje a referenčních obrázků před hledáním cen. Nedoložená identita blokuje cenové závěry. Report obsahuje přímé odkazy na doloženou emisi a konkrétní nabídky.
 

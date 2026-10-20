@@ -23,13 +23,13 @@
     "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
   },
   "collection": {
-    "version": "1.12.1",
+    "version": "1.12.2",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.12.1-Setup.exe",
-    "sha256": "8ddc54cc6933baef3f5d491b64ee65ba22b4202403923a7e576309410633a1fc",
-    "size": 46807437,
-    "date": "2026-10-18",
-    "notes": "Ověření série, roku a katalogového čísla podle načteného zdroje a referenčních obrázků před hledáním cen. Nedoložená identita blokuje cenové závěry. Report obsahuje přímé odkazy na doloženou emisi a konkrétní nabídky."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/Collection-v1.12.2-Setup.exe",
+    "sha256": "1475b33a8928b7d01c08e2bb2be146a291c1cbd0b775413d3edb5280c1bd06ad",
+    "size": 46827204,
+    "date": "2026-10-20",
+    "notes": "Rozšířené dohledávání katalogových podkladů a kontrola barvy referenčních známek; sjednocení nejistých závěrů o lepu a čitelnější report. Vyčerpaný kredit Gemini má konkrétní hlášku. Placené ověření všech sérií nebylo dokončeno kvůli vyčerpanému kreditu; vydáno na výslovné přání uživatele bez tohoto ověření."
   },
   "tenispark": {
     "version": "0.2.8",
