@@ -15,13 +15,13 @@
     "sig_ed25519": "HNljG3b/gC0vYMNZCXQGSYSiHQCEcpJFx87pytePNInNEBfDBIz7gS2u8crBOipxIRJ02Y5lpiPEcXCH6gmLDA=="
   },
   "italia": {
-    "version": "1.10.0",
+    "version": "1.11.0",
     "stage": "beta",
-    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.10.0-Setup.exe",
-    "sha256": "2605a5c4f625a6efebd6ba1b0f7e07381caa38e55631758d829e9d588da4e9b4",
-    "size": 18596303,
-    "date": "2026-09-02",
-    "notes": "1.10.0 beta: DIAGNOSTIKA. Aplikace si nove vede technicky denik sama o sobe - co spadlo, kdy se to stalo poprve a naposledy, jak rychle se spousti a kolik mista denik zabira. Nova stranka Diagnostika (Vystupy) navic rekne, v jakem rezimu instalace bezi a kam data tecou. Kazdy problem ma cislo, podle ktereho jde dohledat. Hlaseni chyb se nove zapina hned pri startu aplikace - drive az otevrenim Health Centra, takze pad na jine strance nikde nezustal; chyba pri vykreslovani uz nekonci bilym oknem. Vse zustava lokalne: zadny cloud, zadna telemetrie, do deniku se uklada jen technika (hesla, klice, e-maily a uzivatelske cesty se zacernuji uz pri zapisu). Diagnosticky balicek vznika jen po tvem kliknuti. BETA/NOT_FINAL."
+    "url": "https://github.com/bludek69-lgtm/aplikace/releases/download/apps/ItaliaTravel-v1.11.0-Setup.exe",
+    "sha256": "2647bb247b60f4d4f9e53f9c4b49956a492e3ae9250acad7136c246d34d53d4d",
+    "size": 18606708,
+    "date": "2026-10-23",
+    "notes": "1.11.0 beta: OPRAVY Z AUDITU. Autopilot se uz nezasekne kvuli fotkam (pojistna zaloha pred zapisem je bez fotek, drive asi jedenact fotek z mobilu natrvalo zablokovalo ukladani planu). Odkazy z importovanych a sdilenych cest se otevrou jen jako webova adresa - odkaz, ktery by ve Windows spustil soubor nebo systemovou funkci, aplikace nepusti. Nazvy mist v mape jsou jen text. Dotazy na verejne mapove sluzby jdou nejvys jednou za sekundu a maji casovy limit, takze vypadek sluzby uz plan nezasekne. Diagnostika serveru se nove spousti i v nainstalovane aplikaci. Planovac uz nehlasi Cesta zalozena, kdyz se cesta se stejnym nazvem nezalozila. MINOR bump: zpetne kompatibilni, bez zmeny formatu dat. BETA/NOT_FINAL."
   },
   "collection": {
     "version": "1.12.2",
