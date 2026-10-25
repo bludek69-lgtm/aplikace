@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.13.0 (beta)
+- 1.13.0 BETA — Dvoufázová analýza: nejprve ověření identity všech známek a společných emisí, potom hledání webových cen jednotlivin a celků s přímými odkazy. Nevyřešená identita zastaví cenové dotazy celé dávky. Nové volby „Úsporně: identifikace a ceny“ a „Totéž + vady a lep“; bez opakovaného placení identifikace. Seskupení neprokazuje úplnost série. Placené ověření přesnosti na všech skutečných sériích nebylo dokončeno. NENÍ oficiální expertíza; kalibrace pravosti neproběhla.
+
 ### 1.12.4 (beta)
 - 1.12.4 BETA — Opravy dohledávání referencí větších sérií: zachování obrázků za 12. položkou, postupné načítání a rezerva podkladů pro další známky. Ověřené sousední známky pomáhají jako kontext, nikoli důkaz identity. Hledání celé série nezávisí na dokončení posouzení stavu; nesouvislá sestava se nehledá pod číslem první známky. Placené ověření všech skutečných sérií nebylo dokončeno (HTTP 402, vyčerpaný kredit); přesnost rozpoznávání není tímto vydáním prokázána. NENÍ oficiální expertíza; kalibrace pravosti neproběhla, GENUINE ground truth = 0.
 
