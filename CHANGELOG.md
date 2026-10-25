@@ -29,6 +29,9 @@ přímo v jednotlivých aplikacích.
 
 ## Collection
 
+### 1.12.4 (beta)
+- 1.12.4 BETA — Opravy dohledávání referencí větších sérií: zachování obrázků za 12. položkou, postupné načítání a rezerva podkladů pro další známky. Ověřené sousední známky pomáhají jako kontext, nikoli důkaz identity. Hledání celé série nezávisí na dokončení posouzení stavu; nesouvislá sestava se nehledá pod číslem první známky. Placené ověření všech skutečných sérií nebylo dokončeno (HTTP 402, vyčerpaný kredit); přesnost rozpoznávání není tímto vydáním prokázána. NENÍ oficiální expertíza; kalibrace pravosti neproběhla, GENUINE ground truth = 0.
+
 ### 1.12.3 (beta)
 - 1.12.3 BETA — Nápověda k těžko určitelným emisím. U Hradčan, PČ 1919, SO 1920, ČSR II, Protektorátu, Germanie a inflačního období, Německa 1945–46, Rakouska 1850 a 1867 a Penny Red zpráva PDF/DOCX přidá sekci „Na co se u této emise dívat“: který znak rozhoduje o variantě a ceně, co zkontrolovat, na jaké padělky si dát pozor a co ze skenu určit nejde (odstín, průsvitka). Podle veřejného průvodce Znamky.cz, přepsáno vlastními slovy, se zdrojem; je to nápověda, ne výsledek ověření, a do placených promptů se nepřidává. Znaky padělků lze v Expertize importovat jako markanty k ručnímu schválení (DISCOVERED); schválení člověkem se opakovaným importem už neztratí. Znamky.cz je v katalogu webů jen odkaz (jejich robots.txt hledání robotům zakazuje). NENÍ oficiální expertíza; kalibrace pravosti neproběhla; placené testy všech sérií z 1.12.2 zůstávají nedokončené; živý placený AI test této změny nebyl proveden.
 
